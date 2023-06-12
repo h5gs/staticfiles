@@ -32,7 +32,7 @@ div#login_container:after {
     position: absolute;
     left: 30px;
     color:  #5277ff;
-    bottom: 10px;
+    bottom: 30px;
     font-size: 12px;
 }
 body.admin_account_login:before {
