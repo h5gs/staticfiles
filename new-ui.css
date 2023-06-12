@@ -6,7 +6,7 @@ label {
     font-weight: bold;
     color: #373d3f;
 }
-input{
+input.input-flat{
 height: 40px;
     border: 1px solid #cdd2e1;
     background-color: #fff!important;
