@@ -49,10 +49,19 @@ width:100%!important;
 #nav-login a[rel="login"]:before {
     content: 'Already have an account?';
     color: #5a5a5a;
+  font-weight: normal;
 }
 #nav-login a[rel="signup"]:before {
     content: 'Don’t have an account?';
     color: #5a5a5a;
+  font-weight: normal;
+}
+#nav-login a{
+color: #5277ff;
+    font-weight: bold;
+}
+#nav-login a:hover{
+border:none;
 }
 .subcontent button{
 width: 100%;
