@@ -31,7 +31,7 @@ div#login_container:after {
     content: '© 2023 Headless RPA. All rights reserved';
     position: absolute;
     left: 30px;
-    color:  #5277ff;
+    color:# 808080;
     bottom: 30px;
     font-size: 12px;
 }
