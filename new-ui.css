@@ -26,12 +26,13 @@ height: 40px;
 #login_container #ul_languages,#login_container br{
 display:none;
 }
-#login_container::after{
-content:'© 2023 Headless RPA. All rights reserved';
-  position: absolute;
-    bottom: 30px;
- left:10px;
- 
+div#login_container:after {
+    content: '© 2023 Headless RPA. All rights reserved';
+    position: absolute;
+    left: 30px;
+    color:  #5277ff;
+    bottom: 10px;
+    font-size: 12px;
 }
 body.admin_account_login:before {
   content: '';
