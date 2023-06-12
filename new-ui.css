@@ -26,7 +26,7 @@ height: 40px;
 #login_container #ul_languages,#login_container br{
 display:none;
 }
-#login_container:befor{
+#login_container::after{
 content:'© 2023 Headless RPA. All rights reserved';
   position: absolute;
     bottom: 30px;
