@@ -23,6 +23,13 @@ height: 40px;
     box-shadow: 0px 4px 8px 3px #e3e3e3;
    position: relative;
 }
+#login_container:befor{
+content:'© 2023 Headless RPA. All rights reserved';
+  position: absolute;
+    bottom: 30px;
+ left:10px;
+ 
+}
 body.admin_account_login:before {
   content: '';
     height: 40px;
