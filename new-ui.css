@@ -25,7 +25,7 @@ height: 40px;
  padding-bottom: 100px
 }
 
-#login_container #ul_languages,#login_container br{
+#login_container #ul_languages,#login_container br,#login_container .logo_container,#login_container h1,#login_container hr{
 display:none;
 }
 div#login_container:after {
