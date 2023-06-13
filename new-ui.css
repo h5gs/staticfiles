@@ -207,18 +207,20 @@ body.admin_application_list{
 background-color:#f4f7ff!important;
 }
 .navbar {
-    min-height: 70px;
+    min-height: 50px;
 }
 .navbar a.logo-position:after{
- content: '';
+content: '';
     height: 40px;
-    width: 310px;
+    width: 320px;
     position: absolute;
-    top: 25px;
-    left: 25px;
+    top: 5px;
+    left: 15px;
     background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left center;
+    z-index: 999;
+    background-size: 80%;
 }
 .navbar .logo-position img{
 display:none;
