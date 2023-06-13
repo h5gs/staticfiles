@@ -99,7 +99,21 @@ width: 100%;
     border-radius: 5px;
     height: 40px;
 }
-
+#loginForm{
+padding-top:150px;
+}
+#loginForm:before{
+   content: 'Login to Get Started';
+    color: #5a5a5a;
+  font-weight: bold;
+ font-size:24px;
+}
+#loginForm:after{
+   content: 'Welcome back! Please enter your details';
+    color: #5a5a5a;
+  font-weight: bold;
+ font-size:18px;
+}
 .color-blue {
     background-color: #5277ff !important;
 }
