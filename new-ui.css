@@ -164,9 +164,10 @@ content: '';
     text-align: center;
     transform: translate(-50%,-50%);
     left: 50%;
-    width: 100%;
+  width: 80px;
+    height: 80px;
 }
-#signupForm:after{
+#forgotpasswordForm:after{
 content: 'Create New Password';
     color: #5a5a5a;
     font-weight: bold;
