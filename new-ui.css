@@ -22,7 +22,8 @@ height: 40px;
     padding: 50px 150px;
     box-shadow: 0px 4px 8px 3px #e3e3e3;
    position: relative;
- padding-bottom: 100px
+ padding-bottom: 100px;
+ margin-top: 120px;
 }
 
 #login_container #ul_languages,#login_container br,#login_container .logo_container,#login_container h1,#login_container hr{
@@ -42,8 +43,8 @@ body.admin_account_login:before {
     height: 40px;
     width: 310px;
     position: absolute;
-    top: 15px;
-    left: 15px;
+    top: 25px;
+    left: 25px;
     background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
     background-repeat: no-repeat;
     background-position: center;
