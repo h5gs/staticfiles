@@ -199,3 +199,10 @@ background-color: #5277ff!important;
 .color-blue {
     background-color: #5277ff !important;
 }
+/*login css End */
+
+/*Dashboard css start */
+
+body.admin_application_list{
+background-color:#f4f7ff;
+}
