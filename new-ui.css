@@ -209,6 +209,10 @@ background-color:#f4f7ff!important;
 .navbar {
     min-height: 50px;
 }
+.navbar .navbar-nav{
+margin-top: 8px;
+}
+
 .navbar a.logo-position:after{
 content: '';
     height: 40px;
@@ -224,4 +228,12 @@ content: '';
 }
 .navbar .logo-position img{
 display:none;
+}
+
+#analytics_visits,#analytics_installs{
+box-shadow: 0 10px 20px #d3d3d3ba, 0px 5px 6px 2px;
+    background-color: #fff;
+    margin-top: 20px;
+    padding-top: 50px;
+    border-radius: 10px;
 }
