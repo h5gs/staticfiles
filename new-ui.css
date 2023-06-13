@@ -101,7 +101,7 @@ width: 100%;
     border-radius: 5px;
     height: 40px;
 }
-#loginForm,#signupForm{
+#loginForm,#signupForm,#forgotpasswordForm{
 padding-top:100px;
 }
 #loginForm:before{
@@ -147,6 +147,32 @@ content: 'Signup';
     font-size:18px;
     position: absolute;
     top: 120px;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    width: 100%;
+}
+#forgotpasswordForm:before{
+content: '';
+    color: #5a5a5a;
+    background-image: url(https://i.postimg.cc/8PPSdcHN/login-art-work.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+   background-size:100%;
+    position: absolute;
+    top: 80px;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    width: 100%;
+}
+#signupForm:after{
+content: 'Create New Password';
+    color: #5a5a5a;
+    font-weight: bold;
+    font-size: 24px;
+    position: absolute;
+    top: 80px;
     text-align: center;
     transform: translate(-50%,-50%);
     left: 50%;
