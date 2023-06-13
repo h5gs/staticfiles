@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body{
  background-color: #fff !important;
+ font-family: 'Poppins', sans-serif!important;
 }
 /*global  css start */
 label {
