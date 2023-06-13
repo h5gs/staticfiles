@@ -49,15 +49,17 @@ body.admin_account_login:before {
     background-position: center;
 }
 body.admin_account_login:after {
-  content: '';
-    height: 300px;
-    width: 300px;
+ content: '';
+    height: 290px;
+    width: 310px;
     position: absolute;
     top: 0px;
     right: 0px;
     background-image: url(https://i.postimg.cc/8PPSdcHN/login-art-work.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top right;
+    z-index: -1;
+    background-size: 80%;
 }
 #nav-login{
  position: absolute;
