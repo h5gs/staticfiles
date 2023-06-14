@@ -244,6 +244,7 @@ box-shadow: 0 3px 6px 2px #d3d3d3ba;
     border-radius: 10px;
  text-align: left;
  box-shadow: 0 3px 6px 2px #d3d3d3ba;
+ text-transform: capitalize;
 }
 #total_visits,#total_installs{
 font-size: 30px;
@@ -252,15 +253,28 @@ font-size: 30px;
  color:#373d3f!important;
 }
 #sb-tour-total-visits:before {
-  content: '';
+content: '';
     height: 50px;
     width: 50px;
     position: absolute;
-    top: 25px;
-    left: 25px;
+    top: 35px;
+    right: 25px;
     background-image: url(https://i.postimg.cc/QNvsLn4H/view-icon.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 70%;
+}
+#total_installs:before {
+content: '';
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 35px;
+    right: 25px;
+    background-image: url(https://i.postimg.cc/9f1bTKRb/download-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
 }
 
 
