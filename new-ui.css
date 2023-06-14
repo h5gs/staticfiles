@@ -230,12 +230,19 @@ content: '';
 display:none;
 }
 
-#analytics_visits,#analytics_installs,#sb-tour-install-table,#sb-tour-visit-table{
+#analytics_visits,#sb-tour-install-table,#sb-tour-visit-table{
 box-shadow: 0 3px 6px 2px #d3d3d3ba;
     background-color: #fff;
     margin-top: 20px;
-    padding-top: 50px;
+    padding-top: 30px;
     border-radius: 10px;
+   overflow: hidden;
+}
+#analytics_installs{
+ box-shadow: 0 3px 6px 2px #d3d3d3ba;
+    background-color: #fff;
+    margin-top: 20px;
+   border-radius: 10px;
    overflow: hidden;
 }
 #sb-tour-total-visits,#sb-tour-total-installs{
