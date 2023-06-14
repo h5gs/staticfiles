@@ -238,7 +238,7 @@ box-shadow: 0 3px 6px 2px #d3d3d3ba;
     border-radius: 10px;
    overflow: hidden;
 }
-#analytics_visits:before{
+#analytics_visits:after{
  content: 'Analytics';
     color: #5a5a5a;
     font-weight: bold;
