@@ -238,6 +238,16 @@ box-shadow: 0 3px 6px 2px #d3d3d3ba;
     border-radius: 10px;
    overflow: hidden;
 }
+#analytics_visits:before{
+ content: 'Analytics';
+    color: #5a5a5a;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+   left:10px;
+}
+
 #analytics_installs{
  box-shadow: 0 3px 6px 2px #d3d3d3ba;
     background-color: #fff;
