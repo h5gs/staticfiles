@@ -299,7 +299,7 @@ order:1;
 .dashboard .col-md-6:nth-child(2) .row:nth-child(2) .first-row-feature,.dashboard .col-md-6:nth-child(2) .row.first-row-feature{
 padding-top:0px!important;
 }
-dashboard .col-md-6:nth-child(2) .row.first-row-feature .col-md-12:after{
+dashboard .col-md-6:nth-child(2) .row.first-row-feature .col-md-12::before{
   content: 'Analytics';
     color: #5a5a5a;
     font-weight: bold;
