@@ -238,15 +238,7 @@ box-shadow: 0 3px 6px 2px #d3d3d3ba;
     border-radius: 10px;
    overflow: hidden;
 }
-#analytics_visits:after{
- content: 'Analytics';
-    color: #5a5a5a;
-    font-weight: bold;
-    font-size: 20px;
-    position: absolute;
-    top: 10px;
-   left:10px;
-}
+
 
 #analytics_installs{
  box-shadow: 0 3px 6px 2px #d3d3d3ba;
@@ -306,6 +298,15 @@ order:1;
 }
 .dashboard .col-md-6:nth-child(2) .row:nth-child(2) .first-row-feature,.dashboard .col-md-6:nth-child(2) .row.first-row-feature{
 padding-top:0px!important;
+}
+dashboard .col-md-6:nth-child(2) .row.first-row-feature .col-md-12:after{
+  content: 'Analytics';
+    color: #5a5a5a;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+   left:10px;
 }
 .dashboard .col-md-6:nth-child(1) .content{
   border-radius: 10px;
