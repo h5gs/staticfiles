@@ -344,6 +344,7 @@ content: '+ Create New';
     text-transform: capitalize;
     z-index: 999;
     opacity: 1;
+ background-color: transparent;
 }
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create:hover:before{
  right: 25px!important;
