@@ -318,3 +318,12 @@ padding-top:25px!important;
 .dashboard h3#sb-tour-app.title-dashboard{
 background-color: #fff !important;
 }
+.dashboard h3#sb-tour-app.title-dashboard:after{
+ content: 'My Applications';
+    color: #5a5a5a;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+   left:10px;
+}
