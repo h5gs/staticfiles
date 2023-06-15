@@ -333,13 +333,13 @@ margin-top: 0px;
  overflow:hidden;
 }
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create:before{
-content: 'My Applications';
-    color: #2e3342;
+content: '+ Create New';
+    color: #ffffff;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 13px;
     position: absolute;
-    top: 16px;
-    left: 15px;
+    top: 12px;
+    left: 30px;
     text-transform: capitalize;
 }
 
