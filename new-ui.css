@@ -312,17 +312,18 @@ dashboard .col-md-6:nth-child(2) .row.first-row-feature .col-md-12::before{
   border-radius: 10px;
 box-shadow: 0 3px 6px 2px #d3d3d3ba;
  position: relative;
+ padding-top:30px;
 }
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6{
 position: absolute;
     right: 0px;
-    top: 8px;
+    top: 17px;
  text-align: right;
 }
 .dashboard .col-md-6:nth-child(1) .content #search_row{
 position: absolute;
     right: 170px;
-    top: 7px;
+    top: 17px;
     width: 250px;
 }
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create{
@@ -360,7 +361,7 @@ content: 'My Applications';
     font-weight: bold;
     font-size: 17px;
     position: absolute;
-    top: 16px;
+    top: 26px;
     left: 15px;
     text-transform: capitalize;
 }
