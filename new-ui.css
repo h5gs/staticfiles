@@ -321,13 +321,16 @@ position: absolute;
 }
 .dashboard .col-md-6:nth-child(1) .content #search_row{
 position: absolute;
-    right: 180px;
+    right: 220px;
     top: 7px;
+    width: 35%;
 }
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create{
-margin-top:0px;
- width: 60%;
+margin-top: 0px;
+    width: 50%;
     border-radius: 50px;
+    color: #5277ff!important;
+ overflow:hidden;
 }
 
 .dashboard .col-md-6:nth-child(2) .row:nth-child(4) .first-row-feature{
