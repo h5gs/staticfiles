@@ -318,6 +318,9 @@ padding-top:25px!important;
 .dashboard h3#sb-tour-app.title-dashboard{
 background-color: #fff !important;
 }
+.dashboard h3#sb-tour-app.title-dashboard span{
+diaplay:none;
+}
 .dashboard h3#sb-tour-app.title-dashboard:after{
 content: 'My Applications';
     color: #2e3342;
