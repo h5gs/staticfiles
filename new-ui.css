@@ -340,12 +340,15 @@ content: '+ Create New';
     font-size: 16px;
     position: absolute;
     top: 9px;
-    left: 25px;
+    right: 25px;
     text-transform: capitalize;
     z-index: 999;
     opacity: 1;
 }
-
+.dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create:hover:before{
+ right: 25px!important;
+ background: transparent!important;
+}
 .dashboard .col-md-6:nth-child(2) .row:nth-child(4) .first-row-feature{
 padding-top:25px!important;
 }
