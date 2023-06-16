@@ -234,9 +234,10 @@ display:none;
 box-shadow: 0 3px 6px 2px #d3d3d3ba;
     background-color: #fff;
     margin-top: 20px;
-    padding-top: 30px;
+    padding-top: 15px;
     border-radius: 10px;
    overflow: hidden;
+ padding-bottom: 15px;
 }
 
 
