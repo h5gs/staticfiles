@@ -426,3 +426,6 @@ background-color: transparent!important;
 .item-application .item-no-padding:hover {
 background-color: transparent!important;
 }
+ .row-list-application h4.app-name-title{
+text-transform: capitalize;
+}
