@@ -439,10 +439,17 @@ background-color: #fff!important;
 #sb-tour-install-table.table > thead > tr > th,#sb-tour-visit-table.table > thead > tr > th {
   border-bottom: 1px solid #ddd!important;
 }
-#sb-tour-install-table.table-striped > tbody > tr > td:nth-child(2){
+#sb-tour-install-table.table-striped > tbody > tr > td:nth-child(2),#sb-tour-visit-table.table-striped > tbody > tr > td:nth-child(2){
 background-color: #5277ff!important;
     display: inline-block;
-    border-radius: 10px;
- line-hight:1;
- color:#fff!important;
+    border-radius: 30px;
+    line-height: .3;
+    color: #fff!important;
+    margin-top: 7px;
+    float: right;
+    margin-right: 10px;
+    padding: 10px 15px;
+}
+#sb-tour-install-table.table-striped > tbody > tr > td:nth-child(1),#sb-tour-visit-table.table-striped > tbody > tr > td:nth-child(1){
+color:#6cbdeb!important;
 }
