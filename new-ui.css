@@ -292,6 +292,8 @@ content: '';
 #sb-tour-demo-warning{display:none;}
 .dashboard{
 display:flex;
+  margin-top: 5px;
+
 }
 .dashboard .col-md-6:nth-child(1){
 order:2;
@@ -469,6 +471,9 @@ color:#6cbdeb!important;
  #sb-tour-total-visits{
  margin-bottom:15px;
  }
+  .dashboard {
+    margin-top: 0px;
+}
 }
 
 @media only screen and (max-width: 768px) {
@@ -476,9 +481,7 @@ color:#6cbdeb!important;
 
 }
 @media only screen and (max-width: 600px) {
- .dashboard {
-    margin-top: 0px;
-}
+
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 {
     position: initial;
     right: initial;
