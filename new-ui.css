@@ -401,6 +401,13 @@ background-color: transparent;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.delete_app:hover{
+color: transparent;
+    background-color: transparent;
+}
+.delete_app:hover:before{
+color:red;
+}
 .delete_app:before{
 content: "\f1f8"!important;
     font-size: 25px;
