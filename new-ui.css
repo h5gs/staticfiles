@@ -488,6 +488,11 @@ color:#6cbdeb!important;
     top: auto;
     width: 50%;
 }
-
+ .dashboard .col-md-6:nth-child(1) .content .col-xs-6 #sb-tour-button-create{
+  width: 100%;
+ }
+ #create_application{
+ margin-top:10px;
+ }
 }
 
