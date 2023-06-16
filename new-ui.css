@@ -419,7 +419,7 @@ content: "\f1f8"!important;
     color: #bfbfbf;
     z-index: 99;
 }
- .row-list-application  .button-action-app{
+ .row-list-application a.button-action-app.btn.btn-xs.color-blue{
 background-color: transparent!important;
     color: #5277ff!important;
 }
