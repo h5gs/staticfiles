@@ -378,3 +378,7 @@ background-color: rgb(244, 247, 255);
     border-radius: 10px;
     display: none;
 }
+.row-list-application .item-application .app-icon{
+   border-radius: 10px;
+    margin: 5px;
+}
