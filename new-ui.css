@@ -423,3 +423,6 @@ content: "\f1f8"!important;
 background-color: transparent!important;
     color: #5277ff!important;
 }
+.item-application .item-no-padding:hover {
+background-color: transparent!important;
+}
