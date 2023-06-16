@@ -388,7 +388,7 @@ background-color: rgb(244, 247, 255);
     border-top:none!important;
     padding-bottom: 12px;
 }
- row-list-application .delete_app{
+ .row-list-application .delete_app{
 background-color: transparent;
     color: transparent;
     width: 20px;
@@ -401,14 +401,14 @@ background-color: transparent;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
- row-list-application .delete_app:hover{
+ .row-list-application .delete_app:hover{
 color: transparent;
     background-color: transparent;
 }
- row-list-application .delete_app:hover:before{
+ .row-list-application .delete_app:hover:before{
 color:red;
 }
- row-list-application .delete_app:before{
+ .row-list-application .delete_app:before{
 content: "\f1f8"!important;
     font-size: 25px;
     position: absolute;
@@ -419,7 +419,7 @@ content: "\f1f8"!important;
     color: #bfbfbf;
     z-index: 99;
 }
- row-list-application  .button-action-app{
+ .row-list-application  .button-action-app{
 background-color: transparent!important;
     color: #5277ff!important;
 }
