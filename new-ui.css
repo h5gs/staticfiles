@@ -474,6 +474,9 @@ color:#6cbdeb!important;
   .dashboard {
     margin-top: 0px;
 }
+ .dashboard .col-md-6:nth-child(1) .content{
+  padding-bottom: 30px;
+ }
 }
 
 @media only screen and (max-width: 768px) {
