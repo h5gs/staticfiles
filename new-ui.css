@@ -439,3 +439,9 @@ background-color: #fff!important;
 #sb-tour-install-table.table > thead > tr > th,#sb-tour-visit-table.table > thead > tr > th {
   border-bottom: 1px solid #ddd!important;
 }
+#sb-tour-install-table.table-striped > tbody > tr > td:nth-child(2){
+background-color: #5277ff!important;
+    display: inline-block;
+    border-radius: 10px;
+ line-hight:1;
+}
