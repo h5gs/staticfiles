@@ -212,6 +212,9 @@ background-color:#f4f7ff!important;
 .navbar .navbar-nav{
 margin-top: 8px;
 }
+.navbar-nav .border-blue{
+border-color: #5277ff !important;
+}
 
 .navbar a.logo-position:after{
 content: '';
