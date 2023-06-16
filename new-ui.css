@@ -476,6 +476,9 @@ color:#6cbdeb!important;
 
 }
 @media only screen and (max-width: 600px) {
+ .dashboard {
+    margin-top: 0px;
+}
 .dashboard .col-md-6:nth-child(1) .content .col-xs-6 {
     position: initial;
     right: initial;
