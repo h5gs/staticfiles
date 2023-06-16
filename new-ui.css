@@ -433,7 +433,7 @@ background-color: transparent!important;
  .row-list-application h4.app-name-title{
 text-transform: capitalize;
 }
-#sb-tour-install-table.table-striped > tbody > tr:nth-child(odd) > td,#sb-tour-install-table.table-striped > tbody > tr:nth-child(odd) > th,sb-tour-visit-table.table-striped > tbody > tr:nth-child(odd) > td,#sb-tour-visit-table.table-striped > tbody > tr:nth-child(odd) > th{
+#sb-tour-install-table.table-striped > tbody > tr:nth-child(odd) > td,#sb-tour-install-table.table-striped > tbody > tr:nth-child(odd) > th,#sb-tour-visit-table.table-striped > tbody > tr:nth-child(odd) > td,#sb-tour-visit-table.table-striped > tbody > tr:nth-child(odd) > th{
 background-color: #fff!important;
 }
 #sb-tour-install-table.table > thead > tr > th,#sb-tour-visit-table.table > thead > tr > th {
