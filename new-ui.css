@@ -382,3 +382,9 @@ background-color: rgb(244, 247, 255);
    border-radius: 10px;
     margin: 5px;
 }
+.row-list-application .item-application {
+    margin: 0;
+    border-bottom: 1px solid #dedede;
+    border-top:none!important;
+    padding-bottom: 12px;
+}
