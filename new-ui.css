@@ -422,6 +422,9 @@ content: "\f1f8"!important;
  .row-list-application a.button-action-app.btn.btn-xs.color-blue{
 background-color: transparent!important;
     color: #5277ff!important;
+  border-right: 1px solid #dddddd;
+    padding-right: 15px;
+    border-radius: 0;
 }
 .row-list-application a.button-action-app.btn.btn-xs.color-blue:hover{
 background-color: #5277ff!important;
