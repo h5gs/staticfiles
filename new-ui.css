@@ -369,3 +369,6 @@ content: 'My Applications';
     left: 15px;
     text-transform: capitalize;
 }
+#create_application button{
+margin-top:0px;
+}
