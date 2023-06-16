@@ -423,6 +423,10 @@ content: "\f1f8"!important;
 background-color: transparent!important;
     color: #5277ff!important;
 }
+.row-list-application a.button-action-app.btn.btn-xs.color-blue:hover{
+background-color: #5277ff!important;
+   color: #fff!important;
+}
 .item-application .item-no-padding:hover {
 background-color: transparent!important;
 }
