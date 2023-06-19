@@ -24,7 +24,9 @@ height: 40px;
 .default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
-
+.styled-select {
+    height: 45px!important;
+}
 input[type=checkbox].color-red:after {
     border-color: #5277ff !important;
 }
