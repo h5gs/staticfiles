@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body{
- background-color: #fff !important;
+ background-color: #fbfbfb !important;
  font-family: 'Poppins', sans-serif!important;
 }
 /*global  css start */
@@ -41,7 +41,9 @@ div#login_container:after {
     bottom: 30px;
     font-size: 12px;
 }
-
+body.admin_account_login{
+ background-color: #fff!important; 
+}
 body.admin_account_login:before {
   content: '';
     height: 40px;
