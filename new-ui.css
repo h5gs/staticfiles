@@ -643,6 +643,9 @@ img#layout_overview{
  border:none;
     border-radius: 10px;
 }
+#homepage_content .content-feature{
+ border:none;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
