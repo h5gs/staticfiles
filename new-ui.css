@@ -670,6 +670,20 @@ iframe#mobile_overview {
     margin-bottom: 20px;
     margin-top: 20px;
 }
+nav.navbar.navbar-default.editing-application:befor{
+ content: '';
+    height: 40px;
+    width: 320px;
+    position: absolute;
+    top: 5px;
+    left: 250px;
+    background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
+    background-repeat: no-repeat;
+    background-position: left center;
+    z-index: 999;
+    background-size: 80%;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
