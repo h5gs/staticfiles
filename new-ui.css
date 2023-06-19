@@ -511,6 +511,7 @@ color:#6cbdeb!important;
 }
 .menu_steps .step_menu_feature {
     padding: 5px 7px;
+ background-color: transparent!important;
 }
 .step_menu_feature li{
  border:none;
@@ -520,7 +521,7 @@ color:#6cbdeb!important;
     display: none;
 }
 
-.menu_steps .step_menu_feature:hover{
+.menu_steps .step_menu_feature.active{
 background-color: #eef1ff!important;
     border-radius: 50px;
     color: #5277ff!important;
