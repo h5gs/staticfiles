@@ -496,6 +496,9 @@ color:#6cbdeb!important;
 #left-sidebar-wrapper i { 
     font-size: 16px!important;
 }
+.sidebar-nav .icon.ion-chevron-right{
+ right:2px!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
