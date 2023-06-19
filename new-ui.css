@@ -18,7 +18,7 @@ height: 40px;
 .btn-grey{
  background-color: #2e3342 !important;
 }
-.default_button.color-red{
+.default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
 input[type=checkbox].color-red:after {
