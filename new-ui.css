@@ -488,8 +488,14 @@ color:#6cbdeb!important;
   
 }
 .sidebar-nav li a{
-   margin: 0px 10px;
+ margin: 0px 10px;
+    font-size: 14px!important;
+    border-radius: 5px;
 }
+#left-sidebar-wrapper i { 
+    font-size: 16px!important;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
