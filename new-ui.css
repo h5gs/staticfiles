@@ -474,16 +474,18 @@ color:#6cbdeb!important;
  background-color: #ffffff !important;
     color: #5277ff;
   
-    border-radius: 5px;
+  
 }
-
+.bkg-sidebar-left{
+   border-radius: 5px;
+}
 .sidebar-nav li {
     line-height: 40px;
  
 }
 .bkg-sidebar-left li .sub-bar {
-    background-color: #9db2ff !important;
-     color: #000;
+    background-color: transparent!important;
+  
 }
 .sidebar-nav li a{
    margin: 0px 10px;
