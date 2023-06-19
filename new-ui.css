@@ -633,6 +633,9 @@ img#layout_overview{
     border: 1px solid rgb(181 181 181 / 10%);
     border-radius: 6px;
 }
+.font-label.checked,.font-label:hover {
+    border-color: #5277ff;
+}
 .custom-box {
     background-color: #eef1ff;
  border:none;
