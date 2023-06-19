@@ -468,7 +468,7 @@ color:#6cbdeb!important;
 /*Editor css start */
 #left-sidebar-wrapper.bkg-sidebar-left {
     background-color: #5277ff !important;
-   margin: 0px 10px;
+ 
 }
 .bkg-sidebar-left.active, .bkg-sidebar-left .active, .bkg-sidebar-left:active {
  background-color: #ffffff !important;
@@ -476,8 +476,10 @@ color:#6cbdeb!important;
   
     border-radius: 5px;
 }
+
 .sidebar-nav li {
     line-height: 40px;
+   margin: 0px 10px;
 }
 .bkg-sidebar-left li .sub-bar {
     background-color: #9db2ff !important;
