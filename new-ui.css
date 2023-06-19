@@ -479,13 +479,15 @@ color:#6cbdeb!important;
 
 .sidebar-nav li {
     line-height: 40px;
-   margin: 0px 10px;
+ 
 }
 .bkg-sidebar-left li .sub-bar {
     background-color: #9db2ff !important;
      color: #000;
 }
-
+.sidebar-nav li a{
+   margin: 0px 10px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
