@@ -665,7 +665,11 @@ iframe#mobile_overview {
    border: 1px solid #f0f0f0;
    
 }
-
+#fonts .font-group {
+    border-bottom: 1px solid #c3c3c34d;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
