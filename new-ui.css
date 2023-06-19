@@ -670,7 +670,7 @@ iframe#mobile_overview {
     margin-bottom: 20px;
     margin-top: 20px;
 }
-nav.navbar.navbar-default.editing-application:befor{
+nav.navbar.navbar-default.editing-application:after{
  content: '';
     height: 40px;
     width: 320px;
