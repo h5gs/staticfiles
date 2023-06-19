@@ -210,6 +210,7 @@ background-color:#f4f7ff!important;
 }
 .navbar {
     min-height: 50px;
+ border-bottom: 1px solid #e9e9e9!important;
 }
 .navbar .navbar-nav{
 margin-top: 8px;
