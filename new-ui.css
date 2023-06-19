@@ -21,6 +21,7 @@ height: 40px;
 .default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
+
 input[type=checkbox].color-red:after {
     border-color: #5277ff !important;
 }
@@ -31,9 +32,10 @@ input[type=radio].color-red:after {
     background-color: #5277ff;
 }
 .alert-info {
-    color: #5277ff;
-    background-color: #cbd2eb;
-    border-bottom-color: #5277ff;
+   color: #a7a8ab;
+    background-color: #eef1ff;
+    border-bottom: none;
+    padding: 20px 20px 40px 20px;
 }
 /* Track Styles  */
 /* chrome, safari, edge, firefox */
@@ -599,7 +601,20 @@ img#layout_overview{
 #sb-tour-slider-section  .content-white-bkg {
     background-color: #ffffff00 !important;
 }
-
+.upload_images{
+ position: absolute;
+    bottom: 10px;
+    right: 20px;
+    width: 20%;
+    background-color: transparent!important;
+    color: red!important;
+    text-decoration: underline;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+#homepage_slider .slider_images_uploader_action{
+ position: relative;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
