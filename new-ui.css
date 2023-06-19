@@ -466,7 +466,7 @@ color:#6cbdeb!important;
 /*Dashboard css End */
 
 /*Editor css start */
-#left-sidebar-wrapper..bkg-sidebar-left {
+#left-sidebar-wrapper.bkg-sidebar-left {
     background-color: #5277ff !important;
 }
 .bkg-sidebar-left.active, .bkg-sidebar-left .active, .bkg-sidebar-left:active {
