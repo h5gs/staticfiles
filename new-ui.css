@@ -660,6 +660,11 @@ img#layout_overview{
 .save-custom-font{
    margin-top: 0px!important;
 }
+iframe#mobile_overview {
+    background-color: #f0f0f0;
+   border: 1px solid #f0f0f0;
+   
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
