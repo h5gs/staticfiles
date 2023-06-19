@@ -30,7 +30,11 @@ input[type=radio].color-red:before, input[type=checkbox].color-red:before {
 input[type=radio].color-red:after {
     background-color: #5277ff;
 }
-
+.alert-info {
+    color: #5277ff;
+    background-color: #cbd2eb;
+    border-bottom-color: #5277ff;
+}
 /* Track Styles  */
 /* chrome, safari, edge, firefox */
 input::-webkit-slider-runnable-track{
