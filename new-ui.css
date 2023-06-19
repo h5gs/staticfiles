@@ -644,7 +644,7 @@ img#layout_overview{
     border-radius: 10px;
 }
 #homepage_content .content-feature{
- border:none;
+ border:none!important;
 }
 .reset-custom-font{
  background-color: transparent!important;
