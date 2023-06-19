@@ -502,6 +502,27 @@ color:#6cbdeb!important;
 .sidebar-nav .icon.ion-chevron-right{
  right:2px!important;
 }
+.menu_steps > ul {
+    padding-left: 0;
+    background-color: #fff;
+    display: inline-flex;
+    border: 1px solid #e5e5e5;
+    border-radius: 50px;
+}
+.menu_steps .step_menu_feature {
+    padding: 5px 7px;
+}
+.step_menu_feature li{
+ border:none;
+}
+.step_menu_feature .fa {
+    display: none;
+}
+
+
+
+
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
