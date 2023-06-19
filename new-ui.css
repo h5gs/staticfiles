@@ -476,7 +476,10 @@ color:#6cbdeb!important;
 .sidebar-nav li {
     line-height: 40px;
 }
-
+.bkg-sidebar-left li .sub-bar {
+    background-color: #9db2ff !important;
+     color: #000;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
