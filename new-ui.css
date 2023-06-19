@@ -15,7 +15,9 @@ height: 40px;
     background-color: #fff!important;
     border-radius: 5px;
 }
-
+.btn-grey{
+ background-color: #2e3342 !important;
+}
 
 /*login css start */
 #login_container {
