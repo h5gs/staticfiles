@@ -473,7 +473,9 @@ color:#6cbdeb!important;
     background-color: #ffffff !important;
     color: #5277ff;
 }
-
+.sidebar-nav li {
+    line-height: 40px;
+}
 
 
 @media only screen and (max-width: 991px) {
