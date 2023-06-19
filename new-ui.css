@@ -676,7 +676,7 @@ nav.navbar.navbar-default.editing-application:after{
     width: 320px;
     position: absolute;
     top: 5px;
-    left: 250px;
+    left: 220px;
     background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
     background-repeat: no-repeat;
     background-position: left center;
@@ -696,6 +696,9 @@ nav.navbar.navbar-default.editing-application:after{
 }
  .dashboard .col-md-6:nth-child(1) .content{
   padding-bottom: 30px;
+ }
+ nav.navbar.navbar-default.editing-application:after{
+ left: 80px;
  }
 }
 
