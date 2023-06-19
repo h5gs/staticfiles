@@ -463,6 +463,18 @@ background-color: #5277ff!important;
 color:#6cbdeb!important;
 }
 
+/*Dashboard css End */
+
+/*Editor css start */
+#left-sidebar-wrapper..bkg-sidebar-left {
+    background-color: #5277ff !important;
+}
+.bkg-sidebar-left.active, .bkg-sidebar-left .active, .bkg-sidebar-left:active {
+    background-color: #ffffff !important;
+    color: #5277ff;
+}
+
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
