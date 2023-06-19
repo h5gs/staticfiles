@@ -531,7 +531,7 @@ background-color: #eef1ff!important;
 .content-color {
     background-color: #f8fafc !important;
 }
-#template_content .title-editor{
+ .title-editor{
  border: none;
     text-align: left;
     padding: 10px;
