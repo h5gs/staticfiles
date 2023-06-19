@@ -591,6 +591,15 @@ background-color: #eef1ff!important;
 img#layout_overview{
  border:none!important;
 }
+#homepage_slider-element legend{
+ background-color: #fff;
+    padding: 10px;
+    color: #2e3342;
+}
+#sb-tour-slider-section  .content-white-bkg {
+    background-color: #ffffff00 !important;
+}
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
