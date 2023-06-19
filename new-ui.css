@@ -514,6 +514,7 @@ color:#6cbdeb!important;
 }
 .step_menu_feature li{
  border:none;
+ text-transform: capitalize;
 }
 .step_menu_feature .fa {
     display: none;
@@ -524,7 +525,7 @@ background-color: #eef1ff!important;
     border-radius: 50px;
     color: #5277ff!important;
     box-shadow: 0px 2px 4px 1px #e5e5e594;
- 
+ font-weight: bold;
 }
 
 
