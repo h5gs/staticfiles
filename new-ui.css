@@ -18,6 +18,9 @@ height: 40px;
 .btn-grey{
  background-color: #2e3342 !important;
 }
+.default_button.color-red{
+ background-color: #5277ff !important;
+}
 
 /*login css start */
 #login_container {
