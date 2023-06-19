@@ -646,6 +646,20 @@ img#layout_overview{
 #homepage_content .content-feature{
  border:none;
 }
+.reset-custom-font{
+ background-color: transparent!important;
+    color: #5277ff!important;
+    text-decoration: underline;
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-top: 0px!important;
+    height: 20px;
+    padding: 0;
+    line-height: 1;
+}
+.save-custom-font{
+   margin-top: 0px!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
