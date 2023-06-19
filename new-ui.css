@@ -21,6 +21,15 @@ height: 40px;
 .default_button.color-red{
  background-color: #5277ff !important;
 }
+input[type=checkbox].color-red:after {
+    border-color: #5277ff !important;
+}
+input[type=radio].color-red:before, input[type=checkbox].color-red:before {
+    border: 2px solid #5277ff !important;
+}
+input[type=radio].color-red:after {
+    background-color: #5277ff;
+}
 
 /*login css start */
 #login_container {
