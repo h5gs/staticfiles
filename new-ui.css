@@ -541,7 +541,16 @@ background-color: #eef1ff!important;
     color: #5277ff!important;
     text-transform: capitalize;
 }
-
+#show_templates p{
+ border: 5px solid #dddddd;
+    border-radius: 20px;
+ background-color: #fff;
+}
+#layout_overview p{
+ border: 4px dashed #dddddd;
+    border-radius: 20px;
+    background-color: #fff;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
