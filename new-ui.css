@@ -750,7 +750,7 @@ color: #5277ff!important;
     height: 50px !important;
 }
 .minicolors-swatch-color{
- border:none!important;
+border-color: #ededed;
 }
 .content-color h6{
  font-size:15px;
