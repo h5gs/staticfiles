@@ -58,8 +58,8 @@ input[type=radio].color-red:after {
     content: "";
     left: calc(100% - 22px);
     background: #5277ff;
-    height:10px;
- width:10px;
+   border-radius: 50px;
+
 }
 /* Track Styles  */
 /* chrome, safari, edge, firefox */
@@ -845,6 +845,17 @@ content: '';
 
 #icon_and_name .row .col-md-4, #icon_and_name .row .col-md-2,#icon_and_name .row .col-md-6{
   width: 100%!important;
+}
+.tabbar-check {
+    float: initial;
+    text-align: start;
+    margin-left: 35px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.tabbar-check:first-child {
+  margin-left: 0px!important;
 }
 
 
