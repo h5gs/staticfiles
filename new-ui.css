@@ -733,7 +733,9 @@ nav.navbar.navbar-default.editing-application:after{
     height: 35px!important;
  background-color: #5277ff!important;
 }
-
+#step_1:hover,#step_2:hover,#step_3:hover,#step_4:hover,#step_5:hover{
+color: #5277ff!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
