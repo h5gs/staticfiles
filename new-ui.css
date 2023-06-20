@@ -759,6 +759,7 @@ color: #5277ff!important;
 }
 #app_colors .col-md-9.col-xs-8{
   background-color:#fff!important;
+ border-radius: 10px;
 }
 .color-section.change-overview-content .content-color {
   background-color:#fff!important;
@@ -768,16 +769,16 @@ ul.color-sections li {
     text-transform: capitalize;
     font-size: 15px;
     height: 47px;
-    
+    position: relative;
 }
 #app_colors ul.color-sections  .color-yellow:after{
- content:'';
- position: absolute;
-    top: opx;
-    right: 0px;
- height:47px;
- width:50px;
- background-color:#fff;
+content: '';
+    position: absolute;
+    top: 0px;
+    right: -30px;
+    height: 47px;
+    width: 60px;
+    background-color: #fff;
 }
 #app_colors ul.color-sections  .color-yellow {
     background-color: #ffffff !important;
