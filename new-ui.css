@@ -809,10 +809,21 @@ content: '';
 .CodeMirror-scroll{
  background-color: #eef1ff;
 }
+/*color css end */
 
-
-
-
+/*Features css start */
+.app-features .page-content-wrapper{
+ display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#pages_content{
+ width: 30%;
+ overflow: hidden;
+}
+#header_editor{
+  width: 70%;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
