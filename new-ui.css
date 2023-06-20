@@ -756,6 +756,7 @@ color: #5277ff!important;
  font-size:15px;
  border-bottom: 1px solid #ebebeb;
     background-color: transparent;
+ text-transform: capitalize!important;
 }
 #app_colors .col-md-9.col-xs-8{
   background-color:#fff!important;
