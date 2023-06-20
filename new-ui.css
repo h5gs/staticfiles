@@ -9,11 +9,13 @@ label {
     font-weight: bold;
     color: #373d3f;
 }
+
 input.input-flat{
 height: 40px;
-    border: 1px solid #cdd2e1;
-    background-color: #fff!important;
+    border: 0px solid #cdd2e1;
+    background-color: #eef1ff!important;
     border-radius: 5px;
+    box-shadow: none;
 }
 .btn-grey{
  background-color: #2e3342 !important;
@@ -130,6 +132,11 @@ div#login_container:after {
     color:# 808080;
     bottom: 30px;
     font-size: 12px;
+}
+body.admin_account_login input.input-flat{
+ border: 1px solid #cdd2e1;
+    background-color: #fff!important;
+    border-radius: 5px;
 }
 body.admin_account_login{
  background-color: #fff!important; 
