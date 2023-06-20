@@ -788,6 +788,12 @@ content: '';
     background-color: #ffffff !important;
     color:#5277ff  !important
 }
+
+#list-overview,#app-overview{
+ width: 20%;
+    height: 35px!important;
+    font-size: 14px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
