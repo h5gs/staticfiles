@@ -757,6 +757,22 @@ color: #5277ff!important;
  border-bottom: 1px solid #ebebeb;
     background-color: transparent;
 }
+#app_colors .col-md-9.col-xs-8{
+  background-color:#fff!important;
+}
+#sb-tour-color-section-General .content-color {
+  background-color:#fff!important;
+}
+ul.color-sections li {
+    padding: 13px 5px 13px 15px;
+    text-transform: capitalize;
+    font-size: 15px;
+    
+}
+#app_colors ul.color-sections  .color-yellow {
+    background-color: #ffffff !important;
+    color:#5277ff  !important
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
