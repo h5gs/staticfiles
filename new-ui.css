@@ -793,6 +793,7 @@ content: '';
  width: 20%;
     height: 35px!important;
     font-size: 14px;
+ background-color: #2e3342 !important;
 }
 @media only screen and (max-width: 991px) {
 .dashboard {
