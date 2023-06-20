@@ -767,7 +767,17 @@ ul.color-sections li {
     padding: 13px 5px 13px 15px;
     text-transform: capitalize;
     font-size: 15px;
+    height: 47px;
     
+}
+#app_colors ul.color-sections  .color-yellow:after{
+ content:'';
+ position: absolute;
+    top: opx;
+    right: 0px;
+ height:47px;
+ width:50px;
+ background-color:#fff;
 }
 #app_colors ul.color-sections  .color-yellow {
     background-color: #ffffff !important;
