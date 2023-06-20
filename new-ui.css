@@ -727,6 +727,14 @@ nav.navbar.navbar-default.editing-application:after{
 .content-options .upload_bg.btn-grey {
     background-color: #5277ff !important;
 }
+#reload-overview{
+ width: 35%;
+    font-size: 14px;
+    height: 35px!important;
+ background-color: #5277ff!important;
+}
+
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
