@@ -744,6 +744,8 @@ color: #5277ff!important;
 .minicolors input[type=hidden] + .minicolors-swatch {
     width: 50px !important;
   height: 50px!important;
+ border-radius: 7px;
+    overflow: hidden;
 }
 .minicolors-theme-default {
     width: 50px !important;
