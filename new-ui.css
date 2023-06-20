@@ -745,6 +745,13 @@ color: #5277ff!important;
     width: 50px !important;
   height: 50px!important;
 }
+.minicolors-theme-default {
+    width: 50px !important;
+    height: 50px !important;
+}
+.minicolors-swatch-color{
+ border:none!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
