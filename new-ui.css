@@ -864,8 +864,16 @@ content: '';
     display: flex;
     justify-content: space-between;
     background-color: #eef1ff;
+ border-radius: 70px;
 }
-
+#page .nav-tabs > li{
+   width: 100%;
+}
+#page .nav-tabs > li.active > a{
+ color: #fff;
+    background-color: #5277ff;
+ text-align:center;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
