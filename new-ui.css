@@ -830,7 +830,7 @@ content: '';
 /*color css end */
 
 /*Features css start */
-.app-features .page-content-wrapper{
+/* .app-features .page-content-wrapper{
  display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -841,7 +841,7 @@ content: '';
 }
 #header_editor{
   width: 70%;
-}
+} */
 
 #icon_and_name .row .col-md-4, #icon_and_name .row .col-md-2,#icon_and_name .row .col-md-6{
   width: 100%!important;
