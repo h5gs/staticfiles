@@ -53,6 +53,7 @@ input[type=range].sb-slider::-webkit-slider-runnable-track {
 input[type=range].sb-slider::-webkit-slider-thumb {
     box-shadow: 0 0px 0 #670000, 0 0px 0 #810000;
    background: #5277ff!important;
+  border-radius: 30px!important;
 }
 
 input[type=range].sb-slider:focus::-webkit-slider-runnable-track {
@@ -68,7 +69,7 @@ input[type=range].sb-slider::-moz-range-track {
 input[type=range].sb-slider::-moz-range-thumb {
     box-shadow: 0 0px 0 #0e27b2, 0 0px 0 #1e38db;
   
-    border-radius: 30px;
+    border-radius: 30px!important;
     background: #5277ff;
   
 }
