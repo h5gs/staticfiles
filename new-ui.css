@@ -6,7 +6,7 @@ body{
 }
 /*global  css start */
 label {
-    font-weight: bold;
+    font-weight: normal;
     color: #373d3f;
 }
 
@@ -143,6 +143,9 @@ div#login_container:after {
     color:# 808080;
     bottom: 30px;
     font-size: 12px;
+}
+body.admin_account_login label {
+    font-weight: bold!important;
 }
 body.admin_account_login input.input-flat{
  border: 1px solid #cdd2e1;
@@ -877,6 +880,7 @@ content: '';
 
  border-radius: 60px;
 }
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
