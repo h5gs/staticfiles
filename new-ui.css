@@ -50,6 +50,17 @@ input[type=radio].color-red:after {
 .alert-info .text-danger {
     color: #5277ff;
 }
+.sb-tgl-flat:checked + .sb-tgl-btn {
+    background-color: #eef1ff !important;
+    border-radius: 80px;
+}
+.sb-tgl-flat:checked + .sb-tgl-btn:after {
+    content: "";
+    left: calc(100% - 22px);
+    background: #5277ff;
+    height:10px;
+ width:10px;
+}
 /* Track Styles  */
 /* chrome, safari, edge, firefox */
 
