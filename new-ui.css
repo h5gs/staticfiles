@@ -752,7 +752,11 @@ color: #5277ff!important;
 .minicolors-swatch-color{
  border:none!important;
 }
-
+.content-color h6{
+ font-size:15px;
+ border-bottom: 1px solid #ebebeb;
+    background-color: transparent;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
