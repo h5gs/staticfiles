@@ -764,6 +764,9 @@ color: #5277ff!important;
 .color-section.change-overview-content .content-color {
   background-color:#fff!important;
 }
+.color-section.change-overview-content .content-colors {
+    height: 90vh;
+}
 ul.color-sections li {
     padding: 13px 5px 13px 15px;
     text-transform: capitalize;
