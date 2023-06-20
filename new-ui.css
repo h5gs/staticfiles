@@ -21,6 +21,9 @@ height: 40px;
 .color-red {
     background-color: #5277ff !important;
 }
+.btn.color-yellow{
+  background-color: #5277ff !important;
+}
 .default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
