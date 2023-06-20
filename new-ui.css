@@ -731,7 +731,7 @@ nav.navbar.navbar-default.editing-application:after{
  width: 35%;
     font-size: 14px;
     height: 35px!important;
- background-color: #5277ff!important;
+background-color: #2e3342 !important;
 }
 #step_1:hover,#step_2:hover,#step_3:hover,#step_4:hover,#step_5:hover{
 color: #5277ff!important;
