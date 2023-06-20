@@ -737,6 +737,15 @@ nav.navbar.navbar-default.editing-application:after{
 color: #5277ff!important;
 }
 
+/*Editor css start */
+
+/*color css start */
+
+.minicolors input[type=hidden] + .minicolors-swatch {
+    width: 50px !important;
+  height: 50px!important;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
