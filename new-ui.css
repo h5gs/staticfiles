@@ -724,7 +724,9 @@ nav.navbar.navbar-default.editing-application:after{
     z-index: 999;
     background-size: 80%;
 }
-
+.content-options .upload_bg.btn-grey {
+    background-color: #5277ff !important;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
