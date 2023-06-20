@@ -824,6 +824,12 @@ content: '';
 #header_editor{
   width: 70%;
 }
+
+#icon_and_name .row .col-md-4, #icon_and_name .row .col-md-2,#icon_and_name .row .col-md-6{
+  width: 100%!important;
+}
+
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
