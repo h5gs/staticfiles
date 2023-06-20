@@ -797,6 +797,19 @@ content: '';
     font-size: 14px;
  background-color: #2e3342 !important;
 }
+.mini-color span.mini-text {
+    text-transform: capitalize!important;
+}
+.sb-tgl-flip + .sb-tgl-btn:before {
+    background: #5277ff !important
+}
+.CodeMirror-scroll{
+ background-color: #eef1ff;
+}
+
+
+
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
