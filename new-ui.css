@@ -765,8 +765,8 @@ border-color: #ededed;
 .color-section.change-overview-content .content-color {
   background-color:#fff!important;
 }
-#app_colors .content-colors {
-    height: 90vh;
+#app_colors {
+display:flex;
 }
 ul.color-sections li {
     padding: 13px 5px 13px 15px;
