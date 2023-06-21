@@ -1015,7 +1015,7 @@ right: 20px;
  font-wight:bold;
 }
 #sb-tour-add-pages-filter ul li .color-blue.active:after{
-  background-color: #fff !important;
+ border-left-color: #fff !important;
 }
 @media only screen and (max-width: 991px) {
 .dashboard {
