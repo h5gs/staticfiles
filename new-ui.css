@@ -880,6 +880,20 @@ content: '';
 
  border-radius: 60px;
 }
+#icon_and_name .col-icon-button {
+    padding-top: 0px;
+    width: 100px;
+    position: absolute;
+    left: 15px;
+    top: 6px;
+}
+#icon_and_name .col-icon-first,#icon_and_name .row .col-md-2 {
+    padding-left: 120px;
+}
+#icon_and_name .row .col-md-2{
+padding-left: 137px;
+    margin-top: 8px;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
