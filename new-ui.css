@@ -9,6 +9,11 @@ label {
     font-weight: normal;
     color: #373d3f;
 }
+.alert-warning {
+     color: #a31b19;
+    background-color: #eef1ff;
+    border-bottom-color: none;
+}
 .alert-danger {
     color: #a31b19;
     background-color: #eef1ff;
