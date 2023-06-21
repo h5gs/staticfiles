@@ -1034,7 +1034,7 @@ font-weight: bold!important;
  background: #5277ff;
  border-radius: 10px;
 }
- .block_add_pages_icon.btn:hover .background-icon-feature{
+ .block_add_pages_icon:hover .background-icon-feature{
  filter: brightness(0) invert(1);
 }
 span.folder-hover:hover, li.folder-sortable.active > span.folder-hover {
