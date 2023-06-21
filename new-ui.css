@@ -1005,9 +1005,14 @@ right: 20px;
 #sb-tour-add-pages-filter ul,#sb-tour-add-pages-filter{
   background-color: #f8fafc!important;
 }
+#sb-tour-add-pages-filter ul li a {
+ padding: 10px 15px;
+    text-transform: capitalize;
+}
 #sb-tour-add-pages-filter ul li a.active.color-blue{
  background-color: #fff !important;
  color: #5277ff !important;
+ font-wight:bold;
 }
 #sb-tour-add-pages-filter ul li .color-blue.active:after{
   background-color: #fff !important;
