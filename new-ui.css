@@ -1012,13 +1012,18 @@ right: 20px;
 #sb-tour-add-pages-filter ul li a.active.color-blue{
  background-color: #fff !important;
  color: #5277ff !important;
- font-wight:bold;
+font-weight: bold!important;
 }
 #sb-tour-add-pages-filter ul li .color-blue.active:after{
  border-left-color: #fff !important;
 }
 .block_add_pages_icon.btn:before{
- opacity: 0;
+ opacity: 1;
+ background: #5277ff;
+ border-radius: 10px;
+}
+#add_page_list li .block_add_pages_icon.btn:before:hover .background-icon-feature{
+ filter: brightness(0) invert(1);
 }
 
 @media only screen and (max-width: 991px) {
