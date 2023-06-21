@@ -923,7 +923,7 @@ padding-left: 137px;
    width: 100%!important;
 }
 #page .content-feature{
- border:none;
+border-left: none!important;
 }
 
 @media only screen and (max-width: 991px) {
