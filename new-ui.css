@@ -19,8 +19,8 @@ button.toggle_design{
  margin-top: -3px;
     border-radius: 60px;
 }
-.button.toggle_design:hover{
-   border-radius: 60px;
+.button.toggle_design:hover:before{
+   border-radius: 60px!important;
 }
 .toggle_design i.fa{
  padding: 7px 12px;
