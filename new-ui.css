@@ -854,6 +854,9 @@ content: '';
 #icon_and_name .row .col-md-4, #icon_and_name .row .col-md-2,#icon_and_name .row .col-md-6{
   width: 100%!important;
 }
+#icon_and_name .row .col-md-6{
+ padding-left: 140px;
+}
 .tabbar-check {
     float: initial;
     text-align: start;
@@ -887,9 +890,9 @@ content: '';
 }
 #icon_and_name .col-icon-button {
     padding-top: 0px;
-    width: 100px;
+    width: 120px;
     position: absolute;
-    left: 15px;
+    left: 5px;
     top: 6px;
 }
 #icon_and_name .col-icon-first,#icon_and_name .row .col-md-2 {
@@ -900,7 +903,8 @@ padding-left: 137px;
     margin-top: 8px;
 }
 #icon_and_name .color-blue.btn{
- 
+ height: 120px;
+    width: 120px;
 }
 
 
@@ -924,7 +928,9 @@ padding-left: 137px;
 }
 
 @media only screen and (max-width: 768px) {
-
+#icon_and_name .row .col-md-6{
+ padding-left:0px;
+}
 
 }
 @media only screen and (max-width: 600px) {
