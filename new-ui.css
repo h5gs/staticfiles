@@ -1035,9 +1035,7 @@ font-weight: bold!important;
  .background-icon-feature{
  filter: brightness(0);
 }
-.folder_add_page .block_add_pages_icon{
- filter: brightness(0);
-}
+
  .block_add_pages_icon:hover .background-icon-feature{
  filter: brightness(0) invert(1);
 }
