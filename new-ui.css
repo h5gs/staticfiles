@@ -1004,7 +1004,7 @@ right: 20px;
  border-bottom:none;
  
 }
-#add_page_list li .background-icon-feature{
+ .background-icon-feature{
  filter: brightness(0);
 }
 #add-pages .content{
