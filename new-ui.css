@@ -1022,7 +1022,7 @@ font-weight: bold!important;
  background: #5277ff;
  border-radius: 10px;
 }
-#add_page_list li .block_add_pages_icon.btn:before:hover .background-icon-feature{
+#add_page_list li .block_add_pages_icon.btn:hover .background-icon-feature{
  filter: brightness(0) invert(1);
 }
 
