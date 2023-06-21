@@ -1034,10 +1034,15 @@ font-weight: bold!important;
  background: #5277ff;
  border-radius: 10px;
 }
-#add_page_list li .block_add_pages_icon.btn:hover .background-icon-feature{
+ .block_add_pages_icon.btn:hover .background-icon-feature{
  filter: brightness(0) invert(1);
 }
-
+span.folder-hover:hover, li.folder-sortable.active > span.folder-hover {
+    background-color: #eef1ff;
+    border-radius: 6px;
+    color: #4b4b4b;
+ margin-bottom:5px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
