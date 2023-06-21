@@ -972,7 +972,7 @@ right: 20px;
     height: 35px;
     border-radius: 60px;
 }
-#pages_content .list-search i {
+#pages_content .list-search i,#add_pages_content .list-search i {
      left: 220px;
     top: -26px;
 }
