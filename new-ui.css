@@ -1005,6 +1005,13 @@ right: 20px;
 #sb-tour-add-pages-filter ul,#sb-tour-add-pages-filter{
   background-color: #f8fafc!important;
 }
+#sb-tour-add-pages-filter ul li a.active.color-blue{
+ background-color: #fff !important;
+ color: #5277ff !important;
+}
+#sb-tour-add-pages-filter ul li .color-blue.active:after{
+  background-color: #fff !important;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
