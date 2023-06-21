@@ -39,6 +39,7 @@ textarea.input-flat{
   background-color: #eef1ff!important;
     border-radius: 5px;
   box-shadow: none;
+ border: none;
 }
 input.input-flat{
 height: 40px;
@@ -62,15 +63,29 @@ height: 40px;
 .styled-select {
     height: 45px!important;
 }
+input[type=checkbox]:before, input[type=radio]:before {
+   border: 2px solid #5277ff;
+}
+input[type=checkbox]:after{
+ border-color: #5277ff;
+}
 input[type=checkbox].color-red:after {
     border-color: #5277ff !important;
 }
 input[type=radio].color-red:before, input[type=checkbox].color-red:before {
     border: 2px solid #5277ff !important;
 }
+
 input[type=radio].color-red:after {
     background-color: #5277ff;
 }
+input[type=radio].color-blue:before, input[type=checkbox].color-blue:before {
+   border: 2px solid #5277ff !important;
+}
+input[type=checkbox].color-blue:after {
+    border-color: #5277ff !important;
+}
+
 .alert-info {
    color: #a7a8ab;
     background-color: #eef1ff;
