@@ -67,6 +67,8 @@ height: 40px;
 }
 .styled-select {
     height: 45px!important;
+   background-color: #eef1ff !important;
+color: #373d3f!important;
 }
 input[type=checkbox]:before, input[type=radio]:before {
    border: 2px solid #5277ff;
