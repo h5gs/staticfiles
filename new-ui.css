@@ -995,6 +995,13 @@ right: 20px;
 #add_page_list li .background-icon-feature{
  filter: brightness(0);
 }
+#add-pages .content{
+ display: flex;
+}
+#add-pages .content .icons-list{
+ background-color: #fff;
+    padding: 16px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
