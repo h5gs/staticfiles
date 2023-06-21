@@ -7,8 +7,10 @@
 background-color: #5277ff !important; 
 }
 .option_value:hover  {
-    filter: grayscale(100%)!important; 
-    color:#5277ff !important; 
+   color:#5277ff !important; 
+}
+.option_value:hover .img_icon{
+   filter: grayscale(100%)!important; 
 }
 body{
  background-color: #fbfbfb !important;
