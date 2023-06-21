@@ -957,16 +957,17 @@ border-left: none!important;
    height: 90px;
 }
 
-#pages_content .list-search{
+#pages_content .list-search,#add_pages_content .list-search{
 right: 20px;
     left: initial!important;
     width: 250px;
     top: 4px;
 }
-#pages_content #go_up_root.hide ~ .list-search{
+
+#pages_content #go_up_root.hide ~ .list-search,#add_pages_contentt #go_up_root.hide ~ .list-search{
   left: initial!important;
 }
- #pages_content .list-search input{
+ #pages_content .list-search input,#add_pages_content .list-search input{
  width: 100%!important;
     height: 35px;
     border-radius: 60px;
