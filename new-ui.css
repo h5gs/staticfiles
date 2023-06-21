@@ -1004,9 +1004,7 @@ right: 20px;
  border-bottom:none;
  
 }
- .background-icon-feature,.block_add_pages_icon{
- filter: brightness(0);
-}
+
 #add-pages .content{
  display: flex;
 }
@@ -1033,6 +1031,12 @@ font-weight: bold!important;
  opacity: 1;
  background: #5277ff;
  border-radius: 10px;
+}
+ .background-icon-feature{
+ filter: brightness(0);
+}
+.folder_add_page .block_add_pages_icon{
+ filter: brightness(0);
 }
  .block_add_pages_icon:hover .background-icon-feature{
  filter: brightness(0) invert(1);
