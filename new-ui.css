@@ -917,10 +917,15 @@ content: '';
     background-color: #eef1ff;
  border-radius: 70px;
  margin: auto;
+ margin-bottom: 10px;
 }
 #page .nav-tabs > li{
    width: 100%;
   text-align:center;
+}
+#page .nav > li > a:hover {
+    background-color: trasparent;
+  color:#5277ff;
 }
 #page .nav-tabs > li.active > a{
  color: #fff;
