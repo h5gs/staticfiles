@@ -12,7 +12,7 @@ label {
 .alert-warning {
      color: #a31b19;
     background-color: #eef1ff;
-    border-bottom-color: none;
+    border-bottom-color: transparent;
 }
 .alert-danger {
     color: #a31b19;
@@ -929,7 +929,7 @@ content: '';
   text-align:center;
 }
 #page .nav > li > a:hover {
-    background-color: trasparent;
+    background-color: transparent;
   color:#5277ff;
 }
 #page .nav-tabs > li.active > a{
