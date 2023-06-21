@@ -937,6 +937,9 @@ right: 20px;
     width: 250px;
     top: 4px;
 }
+#pages_content #go_up_root.hide ~ .list-search{
+  left: initial!important;
+}
 #pages_content .list-search .input.input-flat{
  width: 100%;
     height: 35px;
