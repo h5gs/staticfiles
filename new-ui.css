@@ -894,6 +894,11 @@ content: '';
 padding-left: 137px;
     margin-top: 8px;
 }
+#icon_and_name .color-blue.btn{
+ 
+}
+
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
