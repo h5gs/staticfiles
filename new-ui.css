@@ -6,7 +6,10 @@
 .search_carousel_li.selected{
 background-color: #5277ff !important; 
 }
-
+.option_value:hover  {
+    filter: grayscale(100%)!important; 
+    color:#5277ff !important; 
+}
 body{
  background-color: #fbfbfb !important;
  font-family: 'Poppins', sans-serif!important;
