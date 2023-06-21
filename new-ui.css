@@ -19,7 +19,7 @@ button.toggle_design{
  margin-top: -3px;
     border-radius: 60px;
 }
-.button.toggle_design:hover:before{
+.button.toggle_design:before{
    border-radius: 60px!important;
 }
 .toggle_design i.fa{
