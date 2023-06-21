@@ -28,7 +28,11 @@ button.toggle_design{
     border-radius: 60px;
     font-size: 26px;
 }
-
+textarea.input-flat{
+  background-color: #eef1ff!important;
+    border-radius: 5px;
+  box-shadow: none;
+}
 input.input-flat{
 height: 40px;
     border: 0px solid #cdd2e1;
