@@ -1041,8 +1041,9 @@ font-weight: bold!important;
  .block_add_pages_icon:hover .background-icon-feature{
  filter: brightness(0) invert(1);
 }
-.folder_add_page .block_add_pages_icon:hover{
- filter: brightness(0) invert(1);
+
+.folder_add_page .block_add_pages_icon.btn:before {
+    opacity: 0;
 }
 span.folder-hover:hover, li.folder-sortable.active > span.folder-hover {
     background-color: #eef1ff;
