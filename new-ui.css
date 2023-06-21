@@ -9,7 +9,12 @@ label {
     font-weight: normal;
     color: #373d3f;
 }
-
+.subcontent button{
+width: auto;
+    border-radius: 5px;
+    height: 40px;
+ margin-top:10px;
+}
 input.input-flat{
 height: 40px;
     border: 0px solid #cdd2e1;
@@ -212,11 +217,11 @@ color: #5277ff;
 border:none;
  background-color: transparent;
 }
-.subcontent button{
-width: 100%;
+body.admin_account_login .subcontent button{
+   width: 100%!important;
     border-radius: 5px;
     height: 40px;
- margin-top:20px;
+ margin-top:20px!important;
 }
 #loginForm,#signupForm,#forgotpasswordForm{
 padding-top:100px;
