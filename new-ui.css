@@ -992,7 +992,9 @@ right: 20px;
  border-bottom:none;
  
 }
-
+#add_page_list li .background-icon-feature{
+ filter: brightness(0);
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
