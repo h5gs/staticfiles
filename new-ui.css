@@ -1,17 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
- .option_value.selected * {
-    color: #ffffff;
-    filter: brightness(0) invert(1) grayscale(0);
-}
-.search_carousel_li.selected{
-background-color: #5277ff !important; 
-}
-.option_value:hover  {
-   color:#5277ff !important; 
-}
-.option_value:hover .img_icon{
-   filter: grayscale(100%)!important; 
-}
+ 
 body{
  background-color: #fbfbfb !important;
  font-family: 'Poppins', sans-serif!important;
@@ -1064,6 +1052,24 @@ span.folder-hover:hover, li.folder-sortable.active > span.folder-hover {
     color: #4b4b4b;
  margin-bottom:5px;
 }
+
+.option_value.selected * {
+    color: #ffffff;
+    filter: brightness(0) invert(1) grayscale(0);
+}
+.search_carousel_li.selected{
+background-color: #5277ff !important; 
+}
+.option_value:hover  {
+   color:#5277ff !important; 
+}
+.option_value:hover .img_icon{
+   filter: grayscale(100%)!important; 
+}
+.option_value .icon ion-admin-selected{
+ display:none;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
