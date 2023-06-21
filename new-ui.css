@@ -986,6 +986,13 @@ right: 20px;
     height: 35px!important;
     margin-left: 0px;
 }
+#add_page_list .block_add_pages_icon {
+    border-radius: 10px;
+    background-color: #eef1ff !important;
+ border-bottom:none;
+ 
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
