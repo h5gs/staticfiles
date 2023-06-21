@@ -9,6 +9,13 @@ label {
     font-weight: normal;
     color: #373d3f;
 }
+.alert-danger {
+    color: #a31b19;
+    background-color: #eef1ff;
+    border-bottom-color: #82323100;
+ padding:10px;
+ border-redius:10px;
+}
 .subcontent button{
 width: auto;
     border-radius: 5px;
