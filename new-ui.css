@@ -958,6 +958,9 @@ padding-left: 137px;
  height: 120px;
     width: 120px;
 }
+.edit-btn {
+   top: 40px;
+}
 #page .form-group .col-sm-3,#page .form-group .col-sm-7{
    width: 100%!important;
 }
