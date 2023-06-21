@@ -1017,6 +1017,10 @@ right: 20px;
 #sb-tour-add-pages-filter ul li .color-blue.active:after{
  border-left-color: #fff !important;
 }
+.block_add_pages_icon.btn:before{
+ opacity: 0;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
