@@ -65,7 +65,7 @@ height: 40px;
 .default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
-.styled-select {
+.styled-select.color-blue {
     height: 45px!important;
    background-color: #eef1ff !important;
 color: #373d3f!important;
