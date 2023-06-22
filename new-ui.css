@@ -1228,7 +1228,10 @@ font-size: 18px;
 #apple-element .col-sm-3,#apple-element .col-sm-7,#google-element .col-sm-3,#google-element .col-sm-7{
  width: 100%!important;
 }
-
+#sb-tour-ready-publish{
+ text-align: left;
+    padding: 0;
+}
 
 
 @media only screen and (max-width: 991px) {
