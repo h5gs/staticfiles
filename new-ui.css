@@ -1201,10 +1201,10 @@ background-color: transparent!important;
 #form-general-information .sb-form-line {
  display:flex;
 }
-#form-general-information .sb-form-line .sb-form-line-title{
+#form-general-information .sb-form-line.form-group-checkbox .sb-form-line-title{
  order:2;
 }
-#form-general-information .sb-form-line .col-md-7{
+#form-general-information .sb-form-line.form-group-checkbox .col-md-7{
  width: 10%!important;
 }
 @media only screen and (max-width: 991px) {
