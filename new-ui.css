@@ -1144,8 +1144,16 @@ background-color: transparent!important;
 #sb-tour-preview-settings{
  background-color: #fff;
     border-radius: 5px;
+ order: 2;
 }
-
+#notice_republish .col-md-12{
+ margin-top: 20px;
+}
+#form-application-androidsettings .sb-form-line button{
+ background-color: #2e3342!important;
+    height: 30px;
+    font-size: 12px;
+}
 #sb-tour-preview-settings h4{
  text-align: left!important;
     text-transform: capitalize;
