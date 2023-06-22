@@ -1166,6 +1166,18 @@ background-color: transparent!important;
     text-transform: capitalize;
     color: #000;
 }
+#startup .first-row-feature{
+ border-left:none!important;
+}
+#startup row{
+ display:flex;
+}
+#startup row .col-md-8{
+ order:2;
+}
+#startup row .col-md-4 .content-options.content-white-bkg{
+ background-color: transparent!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
