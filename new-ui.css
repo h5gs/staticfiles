@@ -1169,10 +1169,10 @@ background-color: transparent!important;
 #startup .first-row-feature{
  border-left:none!important;
 }
-#startup row{
+#startup .row{
  display:flex;
 }
-#startup row .col-md-8{
+#startup .row .col-md-8{
  order:2;
 }
 #startup row .col-md-4 .content-options.content-white-bkg{
