@@ -1080,8 +1080,15 @@ background-color: #5277ff !important;
 
 /*app tab  css start */
 
-#general-information .col-md-3,#general-information .col-md-7{
+#general-information .col-md-3,#general-information .col-sm-3,#general-information .col-sm-7{
  width:100%!important;
+}
+#general-information .col-md-7{
+width: 100%!important;
+    padding: 10px;
+    background-color: #eef1ff;
+ border-redius:5px;
+ display:inline-block;
 }
 
 
