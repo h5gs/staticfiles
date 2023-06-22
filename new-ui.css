@@ -29,7 +29,7 @@ label {
     border-radius: 5px;
     height: 40px;
  margin-top:10px;
- padding: 0px 15px;
+ padding: 0px 25px;
 }
 button.toggle_design{
  margin-top: -3px;
@@ -1095,7 +1095,11 @@ width: 100%!important;
     display: block;
     margin-top: 5px;
 }
-
+#general-information .sb-save-info-button{
+ display: block;
+    float: left;
+    margin-left: -10px;
+}
 
 
 @media only screen and (max-width: 991px) {
