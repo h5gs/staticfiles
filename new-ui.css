@@ -14,6 +14,9 @@ label {
     background-color: #eef1ff;
     border-bottom-color: transparent;
 }
+.color-purple {
+    background-color: #5277ff !important;
+}
 .alert-danger {
     color: #a31b19;
     background-color: #eef1ff;
@@ -1087,8 +1090,10 @@ background-color: #5277ff !important;
 width: 100%!important;
     padding: 10px;
     background-color: #eef1ff;
- border-redius:5px;
- display:inline-block;
+border-radius: 5px;
+    display: block;
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
 
