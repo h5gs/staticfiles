@@ -1138,6 +1138,9 @@ background-color: transparent!important;
 #icon .col-md-6:first-child{
  order:2;
 }
+#icon #sb-tour-push-settings{
+  order:1!important;
+}
 
 
 @media only screen and (max-width: 991px) {
