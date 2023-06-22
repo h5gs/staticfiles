@@ -1211,7 +1211,7 @@ background-color: transparent!important;
 #form-general-information .sb-form-html .col-md-12  a{
  color: #5277ff;
 }
-#ios-element .col-sm-3,#ios-element .col-sm-7,#android-element .col-sm-3,#android-element .col-sm-7{
+#ios-element .col-sm-3,#ios-element .col-sm-7,#ios-element .col-md-3,#ios-element .col-md-7,#android-element .col-sm-3,#android-element .col-sm-7,#android-element .col-md-3,#android-element .col-md-7{
 width: 100%!important;
 }
 #ios-element fieldset legend,#android-element fieldset legend,#apple-element fieldset legend,#google-element fieldset legend{
