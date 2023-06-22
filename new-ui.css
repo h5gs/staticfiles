@@ -1076,6 +1076,15 @@ background-color: #5277ff !important;
 .option_value .icon ion-admin-selected{
  display:none;
 }
+/*Features tab css end */
+
+/*app tab  css start */
+
+#general-information .col-md-3,#general-information .col-md-7{
+ width:100%!important;
+}
+
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
