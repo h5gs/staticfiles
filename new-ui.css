@@ -22,7 +22,7 @@ label {
  border-redius:10px;
 }
 .subcontent button{
-width: auto;
+/* width: auto; */
     border-radius: 5px;
     height: 40px;
  margin-top:10px;
