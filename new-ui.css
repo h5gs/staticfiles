@@ -1203,9 +1203,10 @@ background-color: transparent!important;
 }
 #form-general-information .sb-form-line.form-group-checkbox .sb-form-line-title{
  order:2;
+  width: 97%!important;
 }
 #form-general-information .sb-form-line.form-group-checkbox .col-md-7{
- width: 10%!important;
+ width: 3%!important;
 }
 @media only screen and (max-width: 991px) {
 .dashboard {
