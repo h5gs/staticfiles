@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
- .tooltip{
-   background-color:green !important;
- }
+
+.tooltip-arrow,
+.red-tooltip + .tooltip > .tooltip-inner { background-color:green !important;}
 body{
  background-color: #fbfbfb !important;
  font-family: 'Poppins', sans-serif!important;
