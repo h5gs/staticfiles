@@ -1183,6 +1183,12 @@ background-color: transparent!important;
  background-color: transparent!important;
 }
 
+
+#control-group_main_category_id .col-md-7,#control-group_secondary_category_id .col-md-7{
+ padding: 0px!important;
+}
+
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
