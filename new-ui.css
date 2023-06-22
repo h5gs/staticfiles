@@ -1232,7 +1232,9 @@ font-size: 18px;
  text-align: left;
     padding: 0;
 }
-
+#sb-tour-ready-publish a{
+ border-radius: 5px;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
