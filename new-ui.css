@@ -1214,6 +1214,11 @@ background-color: transparent!important;
 #ios-element .col-sm-3,#ios-element .col-sm-7,#android-element .col-sm-3,#android-element .col-sm-7{
 width: 100%!important;
 }
+#ios-element fieldset legend,#android-element fieldset legend,#apple-element fieldset legend,#google-element fieldset legend{
+ border-bottom:none;
+font-size: 18px;
+ color: #181818!important;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
