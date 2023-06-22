@@ -65,11 +65,12 @@ height: 40px;
 .default_button.color-red,.upload_images{
  background-color: #5277ff !important;
 }
-.styled-select.color-blue {
+.styled-select.color-blue,.styled-select.color-red {
     height: 45px!important;
    background-color: #eef1ff !important;
 color: #373d3f!important;
 }
+
 input[type=checkbox]:before, input[type=radio]:before {
    border: 2px solid #5277ff;
 }
@@ -722,6 +723,11 @@ img#layout_overview{
 }
 #sb-tour-slider-section  .content-white-bkg {
     background-color: #ffffff00 !important;
+}
+#font_contentinput.input-flat{
+ border: 1px solid #cdd2e1;
+    background-color: #fff!important;
+    border-radius: 5px;
 }
 .upload_images{
  position: absolute;
