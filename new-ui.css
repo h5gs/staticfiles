@@ -1208,6 +1208,10 @@ background-color: transparent!important;
 #form-general-information .sb-form-line.form-group-checkbox .col-md-7{
  width: 3%!important;
 }
+#form-general-information .sb-form-html .col-md-12  a{
+ color: #5277ff;
+}
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
