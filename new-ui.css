@@ -1211,7 +1211,9 @@ background-color: transparent!important;
 #form-general-information .sb-form-html .col-md-12  a{
  color: #5277ff;
 }
-
+#ios-element .col-sm-3,#ios-element .col-sm-7,#android-element .col-sm-3,#android-element .col-sm-7{
+width: 100%!important;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
