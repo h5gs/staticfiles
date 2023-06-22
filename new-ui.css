@@ -113,7 +113,7 @@ input[type=checkbox].color-blue:after {
    color: #a7a8ab;
     background-color: #eef1ff;
     border-bottom: none;
-    padding: 20px 20px 40px 20px;
+    padding: 20px;
 }
 .alert-info .text-danger {
     color: #5277ff;
