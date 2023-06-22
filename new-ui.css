@@ -1191,13 +1191,22 @@ background-color: transparent!important;
 #startup .row .col-md-4 .content-options.content-white-bkg{
  background-color: transparent!important;
 }
+/*app tab  css end */
 
+/*publish tab  css start */
 
 #control-group_main_category_id .col-md-7,#control-group_secondary_category_id .col-md-7{
  padding: 0px!important;
 }
-
-
+#form-general-information .sb-form-line {
+ display:flex;
+}
+#form-general-information .sb-form-line .sb-form-line-title{
+ order:2;
+}
+#form-general-information .sb-form-line .col-md-7{
+ width: 10%!important;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
