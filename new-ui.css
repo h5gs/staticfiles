@@ -22,6 +22,9 @@ label {
 .color-purple {
     background-color: #5277ff !important;
 }
+.color-green {
+    background-color: #5277ff !important;
+}
 .alert-danger {
     color: #a31b19;
     background-color: #eef1ff;
@@ -87,6 +90,12 @@ input[type=checkbox]:after{
  border-color: #5277ff;
 }
 input[type=checkbox].color-red:after {
+    border-color: #5277ff !important;
+}
+input[type=radio].color-green:before, input[type=checkbox].color-green:before {
+   border: 2px solid #5277ff !important;
+}
+input[type=checkbox].color-green:after {
     border-color: #5277ff !important;
 }
 input[type=radio].color-purple:before, input[type=checkbox].color-purple:before {
