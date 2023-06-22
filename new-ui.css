@@ -1174,6 +1174,10 @@ background-color: transparent!important;
 }
 #startup .row .col-md-8{
  order:2;
+ width: 50%!important;
+}
+#startup .row .col-md-4{
+  width: 50%!important;
 }
 #startup .row .col-md-4 .content-options.content-white-bkg{
  background-color: transparent!important;
