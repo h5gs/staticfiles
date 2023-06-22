@@ -92,6 +92,9 @@ input[type=checkbox]:after{
 input[type=checkbox].color-red:after {
     border-color: #5277ff !important;
 }
+input[type=radio].color-green:after {
+    background-color: #5277ff;
+}
 input[type=radio].color-green:before, input[type=checkbox].color-green:before {
    border: 2px solid #5277ff !important;
 }
