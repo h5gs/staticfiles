@@ -34,7 +34,8 @@ label {
     border-radius: 5px;
     height: 40px;
  margin-top:10px;
- padding: 0px 25px;
+padding: 0px 5px;
+    min-width: 120px;
 }
 button.toggle_design{
  margin-top: -3px;
@@ -87,6 +88,12 @@ input[type=checkbox]:after{
 }
 input[type=checkbox].color-red:after {
     border-color: #5277ff !important;
+}
+input[type=radio].color-purple:before, input[type=checkbox].color-purple:before {
+   border: 2px solid #5277ff !important;
+}
+input[type=radio].color-purple:after {
+    background-color: #5277ff;
 }
 input[type=radio].color-red:before, input[type=checkbox].color-red:before {
     border: 2px solid #5277ff !important;
