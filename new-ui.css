@@ -1198,7 +1198,7 @@ background-color: transparent!important;
 #control-group_main_category_id .col-md-7,#control-group_secondary_category_id .col-md-7{
  padding: 0px!important;
 }
-#form-general-information .sb-form-line {
+#form-general-information .sb-form-line.form-group-checkbox {
  display:flex;
 }
 #form-general-information .sb-form-line.form-group-checkbox .sb-form-line-title{
