@@ -1112,6 +1112,26 @@ background-color: transparent!important;
  background-color:#eef1ff!important;
  color: #000!important;
 }
+#sb-tour-push-settings h4{
+ text-align: left;
+    font-size: 15px;
+    margin-bottom: 0;
+    color: #000;
+    text-transform: capitalize;
+}
+#sb-tour-push-settings p{
+ font-weight: normal;
+    font-size: 13px;
+    text-transform: lowercase;
+    margin-bottom: 20px;
+}
+#form-application-appicons button {
+    width: 256px;
+    position: absolute;
+    bottom: -60px;
+    background-color:#2e3342!important;
+ border-radius: 10px;
+}
 #icon {
  display:flex;
 }
