@@ -1110,6 +1110,7 @@ background-color: transparent!important;
 }
 #sb-tour-push-settings i.appIcon{
  background-color:#eef1ff!important;
+ color: #000!important;
 }
 #icon {
  display:flex;
