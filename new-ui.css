@@ -1120,7 +1120,7 @@ background-color: transparent!important;
     text-transform: capitalize;
 }
 #sb-tour-push-settings p{
- font-weight: normal;
+ font-weight: normal!important;
     font-size: 13px;
     text-transform: lowercase;
     margin-bottom: 20px;
@@ -1141,7 +1141,16 @@ background-color: transparent!important;
 #icon #sb-tour-push-settings{
   order:1!important;
 }
+#sb-tour-preview-settings{
+ background-color: #fff;
+    border-radius: 5px;
+}
 
+#sb-tour-preview-settings h4{
+ text-align: left!important;
+    text-transform: capitalize;
+    color: #000;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
