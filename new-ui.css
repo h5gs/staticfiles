@@ -1222,6 +1222,12 @@ font-size: 18px;
 #sb-tour-monetize-source .sb-save-info-button button,#apple-content .sb-save-info-button button{
  float: left!important;
 }
+#apple-element .col-sm-3,#apple-element .col-sm-7,#google-element .col-sm-3,#google-element .col-sm-7{
+ width: 100%!important;
+}
+
+
+
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
