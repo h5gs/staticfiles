@@ -16,6 +16,9 @@ label {
     font-weight: normal;
     border-radius: 10px;
 }
+.border-purple {
+    border-color: #5277ff !important;
+}
 .color-purple {
     background-color: #5277ff !important;
 }
@@ -1102,7 +1105,12 @@ width: 100%!important;
     float: left;
     margin-left: -10px;
 }
-
+#sb-tour-push-settings{
+background-color: transparent!important;
+}
+#sb-tour-push-settings i.appIcon{
+ background-color:#eef1ff!important;
+}
 
 @media only screen and (max-width: 991px) {
 .dashboard {
