@@ -1111,6 +1111,13 @@ background-color: transparent!important;
 #sb-tour-push-settings i.appIcon{
  background-color:#eef1ff!important;
 }
+#icon {
+ display:flex;
+}
+#icon .col-md-6:first-child{
+ order:2;
+}
+
 
 @media only screen and (max-width: 991px) {
 .dashboard {
