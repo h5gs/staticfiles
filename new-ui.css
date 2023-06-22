@@ -702,6 +702,7 @@ background-color: #eef1ff!important;
     font-size: 20px;
     color: #5277ff!important;
     text-transform: capitalize;
+  border-bottom: 1px solid #ebebeb!important;
 }
 #show_templates p{
  border: 5px solid #dddddd;
