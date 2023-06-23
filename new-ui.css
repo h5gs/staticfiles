@@ -1255,6 +1255,7 @@ font-size: 18px;
 }
 #information .col-md-offset-2{
   margin-left:0px;
+ width: 100%;
 }
 #information .content-color,#change_password .content-color{
  background-color: #fff !important;
@@ -1267,7 +1268,7 @@ font-size: 18px;
     margin-top: 15px;
 }
 
-#information h3.title-editor.border-blue.text-center:after {
+#information h3.title-editor.border-blue.text-center:after,#change_password  h3.title-editor.border-blue.text-center:after {
     content: '';
     height: 30px;
     width: 6px;
