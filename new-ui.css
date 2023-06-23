@@ -807,6 +807,9 @@ img#layout_overview{
     font-size: 18px;
     text-transform: capitalize;
 }
+.dismiss-help:before{
+opacity:0important;	
+}
 .font-label {
     background-color: #eef1ff;
     border: 1px solid rgb(181 181 181 / 10%);
@@ -868,6 +871,9 @@ text-align: left!important;
     height: 20px;
     padding: 0;
     line-height: 1;
+}
+.reset-custom-font:before{
+opacity:0important;	
 }
 .save-custom-font{
    margin-top: 0px!important;
