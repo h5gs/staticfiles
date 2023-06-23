@@ -208,7 +208,7 @@ select.styled-select{
     background-size: 20px;
 /*     background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e)!important;
   */   
- background-image: url("https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png")!important; 
+ background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUwIDUwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNTAgNTAiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJMYXllcl8xXzFfIj48cG9seWdvbiBwb2ludHM9IjQ4LjcwNywxMy44NTMgNDcuMjkzLDEyLjQ0IDI1LDM0LjczMiAyLjcwNywxMi40NCAxLjI5MywxMy44NTMgMjUsMzcuNTYgICIvPjwvZz48L3N2Zz4=)!important; 
 }
 /*login css start */
 #login_container {
