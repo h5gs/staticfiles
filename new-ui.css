@@ -1246,6 +1246,7 @@ font-size: 18px;
 #information,#change_password{
  border-radius: 10px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
+ background-color: #fff;
 }
 #information .col-md-3,#information .col-md-9,#change_password .col-md-3,#change_password .col-md-9{
   width: 100%!important;
@@ -1261,16 +1262,22 @@ font-size: 18px;
 #information .title-editor,#change_password .title-editor{
  color: #2c2e3e!important;
  border-bottom:none!important;
+ padding-left: 40px;
+    margin-top: 15px;
 }
-#information .title-edito:after{
- content:'';
-   position: absolute;
-    top: 0px;
-  left: 0px;
- height:10px;
- width:3px;
- border-redius:5px;
-  background-color: #000!important;
+
+#information h3.title-editor.border-blue.text-center:after {
+    content: '';
+    height: 30px;
+    width: 6px;
+    position: absolute;
+    top: 6px;
+    background-color: #5478ff;
+    left: 25px;
+    border-radius: 5px;
+}
+#change_password  #table-change-password{
+   width: 50%!important;
 }
 @media only screen and (max-width: 991px) {
 .dashboard {
