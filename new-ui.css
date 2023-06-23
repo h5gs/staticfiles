@@ -792,7 +792,7 @@ img#layout_overview{
     text-transform: capitalize;
 }
 .upload_images:before{
-	opacity:0important;
+	opacity:0!important;
 }
 #homepage_slider .slider_images_uploader_action{
  position: relative;
@@ -808,7 +808,7 @@ img#layout_overview{
     text-transform: capitalize;
 }
 .dismiss-help:before{
-opacity:0important;	
+opacity:0!important;	
 }
 .font-label {
     background-color: #eef1ff;
@@ -873,7 +873,7 @@ text-align: left!important;
     line-height: 1;
 }
 .reset-custom-font:before{
-opacity:0important;	
+opacity:0!important;	
 }
 .save-custom-font{
    margin-top: 0px!important;
