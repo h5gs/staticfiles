@@ -855,6 +855,13 @@ color:#fff !important;
 #modal_details_preview .templates_content_preview div{
 height: 600px;	
 }
+div.current p.template_image {
+    border: 2px solid #5277ff !important;
+}
+.current h3.template_title {
+    background-color: #5277ff!important;
+    
+}
 .layouts_content_preview .layout-size {
     height: 410px!important;
 }
