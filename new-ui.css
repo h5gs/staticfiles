@@ -831,7 +831,14 @@ order:1;
 width:50%!important;
 }
 #homepage_content .content-feature .row .col-md-4 .content-white-bkg {
-    background-color: transparent;
+    background-color: transparent!important;
+}
+#homepage_content h4.toggle-overlay{
+text-align: left!important;
+    text-transform: capitalize!important;	
+}
+#homepage_content label {
+    padding: 4px 0px;
 }
 .reset-custom-font{
  background-color: transparent!important;
