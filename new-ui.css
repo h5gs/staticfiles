@@ -838,6 +838,16 @@ padding:0px;
 #behavior_container{
   background-color: #fff!important;	
 }
+#form-behavior .form-group{
+display:flex;		
+}
+#form-behavior .form-group label{
+order:2;	
+}
+#form-behavior .form-group .col-md-1{
+margin-right: 15px;
+    margin-top: 6px;	
+}
 #homepage_content h4.toggle-overlay{
 text-align: left!important;
     text-transform: capitalize!important;	
