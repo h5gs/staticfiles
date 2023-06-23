@@ -794,6 +794,20 @@ img#layout_overview{
 .upload_images:before{
 	opacity:0!important;
 }
+
+#modal_details_preview .col-md-3{
+width: 100%!important;	
+}
+#modal_details_preview .col-md-9{
+width: 100%!important;	
+}
+#modal_details_preview ul{
+	width: 100%;
+    display: flex;
+}
+#modal_details_preview .templates_content_preview div{
+height: 600px;	
+}
 #homepage_slider .slider_images_uploader_action{
  position: relative;
 }
