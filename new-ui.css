@@ -803,13 +803,13 @@ img#layout_overview{
 	opacity:0!important;
 }
 
-#modal_details_preview .col-md-3{
+#modal_details_preview .col-md-3,#modal_details_modal_layouts .col-md-3{
 width: 100%!important;	
 }
-#modal_details_preview .col-md-9{
+#modal_details_preview .col-md-9,#modal_details_modal_layouts .col-md-9{
 width: 100%!important;	
 }
-#modal_details_preview ul{
+#modal_details_preview ul,#modal_details_modal_layouts ul{
 	width: 100%;
     display: flex;
     background-color: #fff;
@@ -818,21 +818,21 @@ width: 100%!important;
     border: 1px solid #efefef;
 	flex-wrap: wrap;
 }
-#modal_details_preview ul li{
+#modal_details_preview ul li,#modal_details_modal_layouts ul li{
 width: auto!important;	
  padding: 3px 15px;
     margin-right: 5px;
 }
-#modal_details_preview ul li a{
+#modal_details_preview ul li a,#modal_details_modal_layouts ul li a{
 text-transform: capitalize!important;
 }
-#modal_details_preview h3.title-editor{
+#modal_details_preview h3.title-editor,#modal_details_modal_layouts h3.title-editor{
 padding:20px!important;
 }
 #modal_details_preview ul li .change_category.color-red{
  background-color: transparent!important;	
 }
-#modal_details_preview ul li.active{
+#modal_details_preview ul li.active,#modal_details_modal_layouts  ul li.active{
 border-radius: 50px;	
 }
 #modal_details_preview .templates_content_preview div{
