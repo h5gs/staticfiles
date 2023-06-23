@@ -1252,6 +1252,19 @@ font-size: 18px;
 #information .content-color,#change_password .content-color{
  background-color: #fff !important;
 }
+#information .title-editor,#change_password .title-editor{
+ color: #2c2e3e!important;
+ border-bottom:none;
+}
+#information .title-edito:after{
+ content:'';
+   position: absolute;
+    top: 0px;
+  left: 0px;
+ height:10px;
+ width:3px;
+ border-redius:5px;
+}
 @media only screen and (max-width: 991px) {
 .dashboard {
     display: block;
