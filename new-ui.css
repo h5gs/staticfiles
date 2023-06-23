@@ -822,6 +822,9 @@ width: auto!important;
  padding: 3px 15px;
     margin-right: 5px;
 }
+#modal_details_preview ul li a{
+text-transform: capitalize!important;
+}
 #modal_details_preview ul li.active{
 border-radius: 50px;	
 }
