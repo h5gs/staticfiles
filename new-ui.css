@@ -803,7 +803,7 @@ img#layout_overview{
 	opacity:0!important;
 }
 
-#modal_details_preview .col-md-3,#modal_details_modal_layouts .col-md-3{
+#modal_details_preview .col-md-3,#modal_details_modal_layouts .col-md-3.col-xs-3{
 width: 100%!important;	
 }
 #modal_details_preview .col-md-9,#modal_details_modal_layouts .col-md-9{
