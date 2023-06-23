@@ -820,6 +820,16 @@ img#layout_overview{
 #homepage_content .content-feature{
  border:none!important;
 }
+#homepage_content .content-feature .row{
+display:flex;	
+}
+#homepage_content .content-feature .row .col-md-8{
+width:50%!important;
+}
+#homepage_content .content-feature .row .col-md-4{
+order:1;
+width:50%!important;
+}
 .reset-custom-font{
  background-color: transparent!important;
     color: #5277ff!important;
