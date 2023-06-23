@@ -1247,6 +1247,7 @@ font-size: 18px;
 #information .col-md-3,#information .col-md-9{
   width: 100%!important;
  text-align: left;
+ margin-left:0px;
 }
 #information .content-color,#change_password .content-color{
  background-color: #fff !important;
