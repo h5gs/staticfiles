@@ -1261,7 +1261,7 @@ font-size: 18px;
  background-color: #fff !important;
  border-radius: 10px;
 }
-#information .title-editor,#change_password .title-editor,,#account_role .title-editor{
+#information .title-editor,#change_password .title-editor,#account_role .title-editor{
  color: #2c2e3e!important;
  border-bottom:none!important;
  padding-left: 40px;
