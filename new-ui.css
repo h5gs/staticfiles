@@ -1072,7 +1072,7 @@ font-weight: bold!important;
  border-radius: 10px;
 }
  .background-icon-feature{
- filter: brightness(0);
+ filter: brightness(0)!important;
 }
 
  .block_add_pages_icon:hover .background-icon-feature{
