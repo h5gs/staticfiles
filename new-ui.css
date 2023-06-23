@@ -782,7 +782,7 @@ img#layout_overview{
 }
 .upload_images{
  position: absolute;
-    bottom: 10px;
+    bottom: 0px;
     right: 20px;
     width: 150px!important;
     background-color: transparent!important;
@@ -790,6 +790,9 @@ img#layout_overview{
     text-decoration: underline;
     font-size: 18px;
     text-transform: capitalize;
+}
+.upload_images:before{
+	opacity:0important;
 }
 #homepage_slider .slider_images_uploader_action{
  position: relative;
