@@ -825,6 +825,7 @@ display:flex;
 }
 #homepage_content .content-feature .row .col-md-8{
 width:50%!important;
+order:2;
 }
 #homepage_content .content-feature .row .col-md-4{
 order:1;
@@ -832,6 +833,7 @@ width:50%!important;
 }
 #homepage_content .content-feature .row .col-md-4 .content-white-bkg {
     background-color: transparent!important;
+padding:0px;
 }
 #homepage_content h4.toggle-overlay{
 text-align: left!important;
