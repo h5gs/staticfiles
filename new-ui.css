@@ -856,7 +856,7 @@ color:#fff !important;
 height: 600px;	
 }
 div.current p.template_image {
-    border: 2px solid #5277ff !important;
+    border: 4px solid #5277ff !important;
 }
 .current h3.template_title {
     background-color: #5277ff!important;
@@ -864,6 +864,7 @@ div.current p.template_image {
 }
 .layouts_content_preview .layout-size {
     height: 410px!important;
+	border:none!important;
 }
 #homepage_slider .slider_images_uploader_action{
  position: relative;
