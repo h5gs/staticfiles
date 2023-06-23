@@ -804,6 +804,18 @@ width: 100%!important;
 #modal_details_preview ul{
 	width: 100%;
     display: flex;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #efefef;
+}
+#modal_details_preview ul li{
+width: auto!important;	
+ padding: 3px 15px;
+    margin-right: 5px;
+}
+#modal_details_preview ul li.active{
+border-radius: 50px;	
 }
 #modal_details_preview .templates_content_preview div{
 height: 600px;	
