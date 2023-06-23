@@ -832,15 +832,21 @@ padding:20px!important;
 #modal_details_preview ul li.change_category.color-red{
  background-color: transparent!important;	
 }
+#modal_details_preview ul li.change_category.color-red.active{
+ background-color: #5277ff !important;
+color:#fff !important;	
+}
 #modal_details_preview ul li.change_category.color-red:hover{
  background-color: transparent!important;
-	color:#5277ff;
+	
 }
 #modal_details_preview ul li.change_category.color-red a:active{
 color:#5277ff !important	
 }
 #modal_details_preview ul li.active,#modal_details_modal_layouts  ul li.active{
-border-radius: 50px;	
+border-radius: 50px;
+	 background-color: #5277ff !important;
+color:#fff !important;	
 }
 #modal_details_preview .templates_content_preview div{
 height: 600px;	
