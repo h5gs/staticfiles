@@ -830,6 +830,9 @@ width:50%!important;
 order:1;
 width:50%!important;
 }
+#homepage_content .content-feature .row .col-md-4 .content-white-bkg {
+    background-color: transparent;
+}
 .reset-custom-font{
  background-color: transparent!important;
     color: #5277ff!important;
