@@ -829,22 +829,22 @@ text-transform: capitalize!important;
 .modal_content h3.title-editor.border-red.text-center{
 padding:20px!important;
 }
-.modal_details ul li.change_category.color-red{
+.modal_details ul li.color-red{
  background-color: transparent!important;	
 }
-.modal_details ul li.change_category.color-red.active{
+.modal_details ul li.color-red.active{
  background-color: #5277ff !important;
 color:#fff !important;	
 }
-.modal_details ul li.change_category.color-red:hover{
+.modal_details ul li.color-red:hover{
  background-color: transparent!important;
 color:#5277ff !important	
 }
-.modal_details ul li.change_category.color-red.active:hover{
+.modal_details ul li.color-red.active:hover{
  background-color: #5277ff!important;
 color:#fff !important	
 }
-.modal_details ul li.change_category.color-red a:active{
+.modal_details ul li.color-red a:active{
 color:#5277ff !important	
 }
 .modal_details ul li.active{
