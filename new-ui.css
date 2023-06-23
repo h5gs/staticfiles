@@ -1248,6 +1248,12 @@ font-size: 18px;
     background-color: #fff!important;
     border-radius: 5px;
 }
+#information .styled-select.color-blue,#account_role .styled-select.color-blue{
+    height: 45px!important;
+    background-color: #ffffff !important;
+    color: #373d3f!important;
+    border: 1px solid #b2b1b1;
+}
 #information,#change_password,#account_role{
  border-radius: 10px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
