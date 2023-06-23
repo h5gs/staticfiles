@@ -1243,6 +1243,11 @@ font-size: 18px;
 #editForm .col-md-6{
    width: 100%!important;
 }
+#information input.input-flat,#change_password input.input-flat,#account_role input.input-flat{
+ border: 1px solid #cdd2e1;
+    background-color: #fff!important;
+    border-radius: 5px;
+}
 #information,#change_password,#account_role{
  border-radius: 10px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
