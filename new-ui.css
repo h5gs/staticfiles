@@ -1253,6 +1253,7 @@ font-size: 18px;
  border: 1px solid #cdd2e1;
     background-color: #fff!important;
     border-radius: 5px;
+ margin-top: 4px;
 }
 #information .styled-select.color-blue,#account_role .styled-select.color-blue{
     height: 45px!important;
