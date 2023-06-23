@@ -826,7 +826,7 @@ width: auto!important;
 #modal_details_preview ul li a,#modal_details_modal_layouts ul li a{
 text-transform: capitalize!important;
 }
-#modal_details_preview h3.title-editor,#modal_details_modal_layouts h3.title-editor{
+#modal_details_preview h3.title-editor.border-red.text-center,#modal_details_modal_layouts h3.title-editor.border-red.text-center{
 padding:20px!important;
 }
 #modal_details_preview ul li .change_category.color-red{
