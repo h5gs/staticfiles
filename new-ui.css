@@ -1280,6 +1280,7 @@ font-size: 18px;
 }
 #change_password  #table-change-password{
    width: 50%!important;
+ padding: 10px 30px;
 }
 @media only screen and (max-width: 991px) {
 .dashboard {
