@@ -826,6 +826,9 @@ width: auto!important;
 #modal_details_preview ul li a{
 text-transform: capitalize!important;
 }
+#modal_details_preview h3.title-editor{
+padding:20px!important;
+}
 #modal_details_preview ul li .change_category.color-red{
  background-color: transparent!important;	
 }
