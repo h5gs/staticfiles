@@ -1240,11 +1240,11 @@ font-size: 18px;
 /*publish tab  css end*/
 
 /*user info  css start */
-#information{
+#information,#change_password{
  border-radius: 10px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
 }
-#information .col-md-3,#information .col-md-9{
+#information .col-md-3,#information .col-md-9,#change_password .col-md-3,#change_password .col-md-9{
   width: 100%!important;
  text-align: left;
  margin-left:0px;
