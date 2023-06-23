@@ -1289,7 +1289,7 @@ font-size: 18px;
     left: 25px;
     border-radius: 5px;
 }
-#change_password  #table-change-password,,#account_role .subcontent{
+#change_password  #table-change-password,#account_role .subcontent{
    width: 50%!important;
  padding: 10px 30px;
 }
