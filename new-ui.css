@@ -1248,7 +1248,7 @@ font-size: 18px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
  background-color: #fff;
 }
-#information .col-md-3,#information .col-md-9,#change_password .col-md-3,#change_password .col-md-9{
+#information .col-md-3,#information .col-md-9,#change_password .col-md-3,#change_password .col-md-9,#account_role .col-md-3,#account_role .col-md-9{
   width: 100%!important;
  text-align: left;
 
@@ -1257,18 +1257,18 @@ font-size: 18px;
   margin-left:0px;
  width: 100%;
 }
-#information .content-color,#change_password .content-color{
+#information .content-color,#change_password .content-color,#account_role .content-color{
  background-color: #fff !important;
  border-radius: 10px;
 }
-#information .title-editor,#change_password .title-editor{
+#information .title-editor,#change_password .title-editor,,#account_role .title-editor{
  color: #2c2e3e!important;
  border-bottom:none!important;
  padding-left: 40px;
     margin-top: 15px;
 }
 
-#information h3.title-editor.border-blue.text-center:after,#change_password  h3.title-editor.border-blue.text-center:after {
+#information h3.title-editor.border-blue.text-center:after,#change_password  h3.title-editor.border-blue.text-center:after,#account_role h3.title-editor.border-blue.text-center:after{
     content: '';
     height: 30px;
     width: 6px;
