@@ -1258,6 +1258,7 @@ font-size: 18px;
 }
 #information .content-color,#change_password .content-color{
  background-color: #fff !important;
+ border-radius: 10px;
 }
 #information .title-editor,#change_password .title-editor{
  color: #2c2e3e!important;
