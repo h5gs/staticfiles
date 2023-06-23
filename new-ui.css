@@ -840,6 +840,10 @@ color:#fff !important;
  background-color: transparent!important;
 color:#5277ff !important	
 }
+#modal_details_preview ul li.change_category.color-red.active:hover{
+ background-color: #5277ff!important;
+color:#fff !important	
+}
 
 #modal_details_preview ul li.active,#modal_details_modal_layouts  ul li.active{
 border-radius: 50px;
