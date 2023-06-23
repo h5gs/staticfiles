@@ -223,6 +223,14 @@ body::-webkit-scrollbar-thumb,.modal_details::-webkit-scrollbar-thumb{
 	background-color: #5478ff;
 }
 
+.custom_modal button.close_modal {
+    margin-top: -8px;
+    margin-right: 0px;
+    background-color: #dde3f9;
+    padding: 7px 10px;
+    border-radius: 50px;
+}
+
 /*login css start */
 #login_container {
     max-width: 700px;
