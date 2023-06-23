@@ -854,7 +854,7 @@ nav.navbar.navbar-default.editing-application:after{
     background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
     background-repeat: no-repeat;
     background-position: left center;
-    z-index: 999;
+    z-index:9;
     background-size: 80%;
 }
 .content-options .upload_bg.btn-grey {
