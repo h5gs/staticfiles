@@ -829,7 +829,7 @@ text-transform: capitalize!important;
 #modal_details_preview h3.title-editor,#modal_details_modal_layouts h3.title-editor{
 padding:20px!important;
 }
-#modal_details_preview ul li .change_category.color-red{
+#modal_details_preview ul li .change_category.color-red,#modal_details_preview ul li .change_category.color-red:hover{
  background-color: transparent!important;	
 }
 #modal_details_preview ul li.active,#modal_details_modal_layouts  ul li.active{
@@ -837,6 +837,9 @@ border-radius: 50px;
 }
 #modal_details_preview .templates_content_preview div{
 height: 600px;	
+}
+.layouts_content_preview .layout-size {
+    height: 410px!important;
 }
 #homepage_slider .slider_images_uploader_action{
  position: relative;
