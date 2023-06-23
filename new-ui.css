@@ -1243,7 +1243,7 @@ font-size: 18px;
 #editForm .col-md-6{
    width: 100%!important;
 }
-#information,#change_password{
+#information,#change_password,#account_role{
  border-radius: 10px;
     box-shadow: 0 3px 6px 2px #d3d3d3ba;
  background-color: #fff;
@@ -1278,7 +1278,7 @@ font-size: 18px;
     left: 25px;
     border-radius: 5px;
 }
-#change_password  #table-change-password{
+#change_password  #table-change-password,,#account_role .subcontent{
    width: 50%!important;
  padding: 10px 30px;
 }
