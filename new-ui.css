@@ -423,7 +423,7 @@ content: 'Signup';
 #forgotpasswordForm:before{
 content: '';
     color: #5a5a5a;
-    background-image: url(lock-icon.png);
+    background-image: url(./lock-icon.png);
     background-repeat: no-repeat;
     background-position: top right;
    background-size:100%;
