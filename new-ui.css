@@ -263,6 +263,9 @@ display:none;
     display: flex;
     align-items: center;
 }
+.admin_account_login .subcontent{
+background-color: transparent;
+}
 #login_container .subcontent{
 background-color: transparent;
     padding: 0px;
