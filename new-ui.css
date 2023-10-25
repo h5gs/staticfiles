@@ -250,7 +250,9 @@ body::-webkit-scrollbar-thumb,.modal_details::-webkit-scrollbar-thumb{
  margin-top: 120px;
  margin-bottom: 0;
 }
-
+.login-left-side{
+display:none;	
+}
 #login_container #ul_languages,#login_container br,#login_container .logo_container,#login_container h1,#login_container hr{
 display:none;
 }
