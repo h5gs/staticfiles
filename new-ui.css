@@ -263,7 +263,12 @@ display:none;
     display: flex;
     align-items: center;
 }
-
+#login_container .subcontent{
+background-color: transparent;
+    padding: 0px;
+    border-radius: 0px;
+    margin-top: auto;	
+}
 #login_container #ul_languages,#login_container br,#login_container .logo_container,#login_container h1,#login_container hr{
 display:none;
 }
