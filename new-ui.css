@@ -289,6 +289,7 @@ div#login_container:after {
 }
 body.admin_account_login label {
     font-weight: bold!important;
+	color: #373d3f!important;
 }
 body.admin_account_login input.input-flat{
  border: 1px solid #cdd2e1;
