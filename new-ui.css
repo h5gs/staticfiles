@@ -358,9 +358,10 @@ border:none;
 }
 body.admin_account_login .subcontent button{
    width: 100%!important;
-    border-radius: 5px;
+    border-radius: 5px!important;
     height: 40px;
  margin-top:20px!important;
+	color: #fff!important;
 }
 #loginForm,#signupForm,#forgotpasswordForm{
 padding-top:100px;
