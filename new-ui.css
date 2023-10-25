@@ -309,7 +309,7 @@ body.admin_account_login:before {
     position: absolute;
     top: 25px;
     left: 25px;
-    background-image: url(https://i0.wp.com/easysimpleapp.com/wp-content/uploads/2023/04/Asset-1@4x-8.png?resize=300%2C33&ssl=1);
+    background-image: url(./logo.webp);
     background-repeat: no-repeat;
     background-position: center;
 }
