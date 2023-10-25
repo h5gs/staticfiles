@@ -266,6 +266,10 @@ display:none;
 .admin_account_login .subcontent{
 background-color: transparent;
 }
+#btnForgotPassword{
+color:#5277ff;
+	font-wight:bold;
+}
 #login_container .subcontent{
 background-color: transparent;
     padding: 0px;
