@@ -49,9 +49,9 @@ label {
 /* width: auto; */
     border-radius: 5px;
     height: 40px;
- margin-top:10px;
+/* margin-top:10px; */
 padding: 0px 5px;
-    min-width: 120px;
+    min-width: 50px;
 }
 button.toggle_design{
  margin-top: -3px;
