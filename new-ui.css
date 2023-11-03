@@ -95,7 +95,10 @@ height: 40px;
    background-color: #eef1ff !important;
 color: #373d3f!important;
 }
-
+.edit_page  input[type="button"],.edit_page input[type="reset"],.edit_page  input[type="submit"]{
+background-color: #5277ff!important;
+	color:#fff!important;
+}
 input[type=checkbox]:before, input[type=radio]:before {
    border: 2px solid #5277ff;
 }
